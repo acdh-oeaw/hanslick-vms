@@ -6,7 +6,7 @@
     exclude-result-prefixes="#all"
     version="2.0">
     
-    <xsl:import href="../../TEI-Stylesheets/html/html.xsl"/>
+    <xsl:import href="../../Stylesheets-dev/html/html.xsl"/>
     <!--
     <xsl:template match="/">
         <xsl:param name="skipPre" select="false()"/>
