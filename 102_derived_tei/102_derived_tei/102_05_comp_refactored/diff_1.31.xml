@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concorance – § 1.31</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list type="navigation">
+            <item>
+               <list type="selectPar">
+                  <head>Select Paragraph</head>
+                  <item>V2.1xyz</item>
+                  <item>V2.2xyz</item>
+                  <item>V2.3</item>
+                  <item>V2.4</item>
+                  <item>V2.5xyz</item>
+                  <item>V2.6</item>
+                  <item>V2.7</item>
+                  <item>1.1</item>
+                  <item>1.2</item>
+                  <item>1.3</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>1.6</item>
+                  <item>1.8</item>
+                  <item>1.9</item>
+                  <item>1.10</item>
+                  <item>1.11</item>
+                  <item>1.12</item>
+                  <item>1.13</item>
+                  <item>1.14</item>
+                  <item>1.15</item>
+                  <item>1.16</item>
+                  <item>1.17</item>
+                  <item>1.18</item>
+                  <item>1.19</item>
+                  <item>1.20</item>
+                  <item>1.21</item>
+                  <item>1.22</item>
+                  <item>1.23xyz</item>
+                  <item>1.27xyz</item>
+                  <item>1.29</item>
+                  <item>1.30</item>
+                  <item>1.30.1</item>
+                  <item>1.31</item>
+                  <item>2.1</item>
+                  <item>2.2</item>
+                  <item>2.3</item>
+                  <item>2.4</item>
+                  <item>2.5</item>
+                  <item>2.6</item>
+                  <item>2.7</item>
+                  <item>2.8</item>
+                  <item>2.9</item>
+                  <item>2.10</item>
+                  <item>2.11</item>
+                  <item>2.12</item>
+                  <item>2.13</item>
+                  <item>2.14</item>
+                  <item>2.14.1</item>
+                  <item>2.15</item>
+                  <item>2.16</item>
+                  <item>2.17</item>
+                  <item>2.18</item>
+                  <item>2.19</item>
+                  <item>2.20</item>
+                  <item>2.21 &amp; 2.22</item>
+                  <item>2.23</item>
+                  <item>2.24</item>
+                  <item>2.25</item>
+                  <item>2.26</item>
+                  <item>2.27</item>
+                  <item>2.28</item>
+                  <item>2.29</item>
+                  <item>2.30</item>
+                  <item>2.31</item>
+                  <item>2.32</item>
+                  <item>2.33</item>
+                  <item>2.34</item>
+                  <item>2.35</item>
+                  <item>2.36</item>
+                  <item>2.37</item>
+                  <item>2.38</item>
+                  <item>2.39</item>
+                  <item>2.40</item>
+                  <item>2.41</item>
+                  <item>2.42</item>
+                  <item>2.43</item>
+                  <item>2.44</item>
+                  <item>2.44.1</item>
+                  <item>2.45</item>
+                  <item>2.46</item>
+                  <item>2.47</item>
+                  <item>3.1</item>
+                  <item>3.2</item>
+                  <item>3.3</item>
+                  <item>3.4</item>
+                  <item>3.5</item>
+                  <item>3.6</item>
+                  <item>3.7</item>
+                  <item>3.8</item>
+                  <item>3.9</item>
+                  <item>3.10</item>
+                  <item>3.11</item>
+                  <item>3.12</item>
+                  <item>3.13</item>
+                  <item>3.14</item>
+                  <item>3.15</item>
+                  <item>3.16</item>
+                  <item>3.17</item>
+                  <item>3.18</item>
+                  <item>3.19</item>
+                  <item>3.20</item>
+                  <item>3.21</item>
+                  <item>3.22</item>
+                  <item>3.23</item>
+                  <item>3.24</item>
+                  <item>3.25</item>
+                  <item>3.26</item>
+                  <item>3.27</item>
+                  <item>3.28</item>
+                  <item>3.29</item>
+                  <item>3.30</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>3.32</item>
+                  <item>3.33</item>
+                  <item>3.34</item>
+                  <item>3.35</item>
+                  <item>3.36</item>
+                  <item>3.37</item>
+                  <item>3.38</item>
+                  <item>3.39</item>
+                  <item>3.40 &amp; 3.41</item>
+                  <item>3.42 &amp; 3.43</item>
+                  <item>3.44</item>
+                  <item>3.45</item>
+                  <item>3.46</item>
+                  <item>4.1 &amp; 4.2</item>
+                  <item>4.3</item>
+                  <item>4.4</item>
+                  <item>4.5</item>
+                  <item>4.6</item>
+                  <item>4.7</item>
+                  <item>4.8</item>
+                  <item>4.9</item>
+                  <item>4.10</item>
+                  <item>4.11</item>
+                  <item>4.12</item>
+                  <item>4.13</item>
+                  <item>4.14</item>
+                  <item>4.15</item>
+                  <item>4.16</item>
+                  <item>4.17</item>
+                  <item>4.18</item>
+                  <item>4.19</item>
+                  <item>4.20</item>
+                  <item>4.21</item>
+                  <item>4.22</item>
+                  <item>4.23</item>
+                  <item>4.24</item>
+                  <item>4.25</item>
+                  <item>4.26</item>
+                  <item>4.27</item>
+                  <item>4.28</item>
+                  <item>4.29</item>
+                  <item>4.30</item>
+                  <item>4.31</item>
+                  <item>4.32</item>
+                  <item>4.33</item>
+                  <item>4.34</item>
+                  <item>4.35</item>
+                  <item>4.36</item>
+                  <item>4.37</item>
+                  <item>4.38</item>
+                  <item>4.39</item>
+                  <item>4.40</item>
+                  <item>4.44</item>
+                  <item>4.45</item>
+                  <item>4.46</item>
+                  <item>4.47</item>
+                  <item>5.1a</item>
+                  <item>5.1b</item>
+                  <item>5.2</item>
+                  <item>5.3</item>
+                  <item>5.4</item>
+                  <item>5.5</item>
+                  <item>5.5.1</item>
+                  <item>5.6</item>
+                  <item>5.7 &amp; 5.8</item>
+                  <item>5.9</item>
+                  <item>5.10</item>
+                  <item>5.11</item>
+                  <item>5.12</item>
+                  <item>5.13</item>
+                  <item>5.14</item>
+                  <item>5.15</item>
+                  <item>5.16</item>
+                  <item>5.17</item>
+                  <item>5.18</item>
+                  <item>5.19</item>
+                  <item>5.20</item>
+                  <item>5.21</item>
+                  <item>5.22</item>
+                  <item>5.23</item>
+                  <item>5.24</item>
+                  <item>5.25</item>
+                  <item>5.26</item>
+                  <item>5.27</item>
+                  <item>5.28</item>
+                  <item>5.29</item>
+                  <item>5.30</item>
+                  <item>6.1 &amp; 6.2</item>
+                  <item>6.3</item>
+                  <item>6.4</item>
+                  <item>6.5</item>
+                  <item>6.6</item>
+                  <item>6.7</item>
+                  <item>6.8</item>
+                  <item>6.9</item>
+                  <item>6.10</item>
+                  <item>6.11</item>
+                  <item>6.12</item>
+                  <item>6.13</item>
+                  <item>6.14</item>
+                  <item>6.15</item>
+                  <item>6.16</item>
+                  <item>6.17</item>
+                  <item>6.18</item>
+                  <item>6.19</item>
+                  <item>6.20</item>
+                  <item>6.21</item>
+                  <item>6.22</item>
+                  <item>6.23</item>
+                  <item>6.24</item>
+                  <item>6.25</item>
+                  <item>6.26</item>
+                  <item>6.27</item>
+                  <item>6.28</item>
+                  <item>6.29</item>
+                  <item>7.1</item>
+                  <item>7.2</item>
+                  <item>7.3</item>
+                  <item>7.4</item>
+                  <item>7.5</item>
+                  <item>7.6</item>
+                  <item>7.7</item>
+                  <item>7.8</item>
+                  <item>7.9</item>
+                  <item>7.10</item>
+                  <item>7.11</item>
+                  <item>7.12</item>
+                  <item>7.13</item>
+                  <item>7.14</item>
+                  <item>7.15</item>
+                  <item>7.16</item>
+                  <item>7.17</item>
+                  <item>7.18</item>
+                  <item>7.19</item>
+                  <item>7.20</item>
+                  <item>7.21</item>
+                  <item>7.22</item>
+                  <item>7.23</item>
+                  <item>7.24</item>
+                  <item>V2.1 &amp; V2.2</item>
+                  <item>1.4</item>
+                  <item>1.5</item>
+                  <item>1.7</item>
+                  <item>1.23</item>
+                  <item>1.24</item>
+                  <item>1.25</item>
+                  <item>1.26</item>
+                  <item>1.27</item>
+                  <item>1.28</item>
+                  <item>2.21</item>
+                  <item>2.22</item>
+                  <item>3.31</item>
+                  <item>4.1</item>
+                  <item>4.2</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>V2.5</item>
+                  <item>V1.1</item>
+                  <item>V1.2</item>
+                  <item>V1.3</item>
+                  <item>V1.4</item>
+                  <item>V1.5</item>
+                  <item>3.40</item>
+                  <item>3.41</item>
+                  <item>3.42</item>
+                  <item>3.43</item>
+                  <item>4.41</item>
+                  <item>4.42</item>
+                  <item>4.43</item>
+                  <item>5.1</item>
+                  <item>5.7</item>
+                  <item>5.8</item>
+                  <item>6.1</item>
+                  <item>6.2</item>
+                  <item>7.25</item>
+                  <item>1.1xyz</item>
+                  <item>1.2xyz</item>
+                  <item>1.3xyz</item>
+                  <item>1.4xyz</item>
+                  <item>1.5xyz</item>
+                  <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>2.26xyz</item>
+                  <item>2.27xyz</item>
+                  <item>2.28xyz</item>
+                  <item>3.21 &amp; 3.22</item>
+                  <item>4.2 &amp; 4.3</item>
+               </list>
+            </item>
+         </list>
+         <table>
+            <row role="label">
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.30.html">§ 1.30</ref>
+                     <ref target="01_VMS_1854_TEI_AW_25-04-21-TEI-P5.xml#d1e675a1048964">VMS 1 (1854)</ref>
+                     <ref type="nextLink" target="diff_2.1.html">§ 2.1</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.30.html">§ 1.30</ref>
+                     <ref target="02_VMS_1858_TEI_AW_25-04-21-TEI-P5.xml#d1e834a1048964">VMS 2 (1858)</ref>
+                     <ref type="nextLink" target="diff_2.1.html">§ 2.1</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.30.html">§ 1.30</ref>
+                     <ref target="03_VMS_1865_TEI_AW_25-04-21-TEI-P5.xml#d1e849a1048964">VMS 3 (1865)</ref>
+                     <ref type="nextLink" target="diff_2.1.html">§ 2.1</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.30.html">§ 1.30</ref>
+                     <ref target="04_VMS_1874_TEI_AW_25-04-21-TEI-P5.xml#d1e847a1048964">VMS 4 (1874)</ref>
+                     <ref type="nextLink" target="diff_2.1.html">§ 2.1</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.30.html">§ 1.30</ref>
+                     <ref target="05_VMS_1876_TEI_AW_25-04-21-TEI-P5.xml#d1e845a1048964">VMS 5 (1876)</ref>
+                     <ref type="nextLink" target="diff_2.1.html">§ 2.1</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.30.1.html">§ 1.30.1</ref>
+                     <ref target="06_VMS_1881_TEI_AW_25-04-21-TEI-P5.xml#d1e1072a1048964">VMS 6 (1881)</ref>
+                     <ref type="nextLink" target="diff_2.1.html">§ 2.1</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.30.1.html">§ 1.30.1</ref>
+                     <ref target="07_VMS_1885_TEI_AW_25-04-21-TEI-P5.xml#d1e997a1048964">VMS 7 (1885)</ref>
+                     <ref type="nextLink" target="diff_2.1.html">§ 2.1</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.30.1.html">§ 1.30.1</ref>
+                     <ref target="08_VMS_1891_TEI_AW_25-04-21-TEI-P5.xml#d1e978a1048964">VMS 8 (1891)</ref>
+                     <ref type="nextLink" target="diff_2.1.html">§ 2.1</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.30.1.html">§ 1.30.1</ref>
+                     <ref target="09_VMS_1896_TEI_AW_25-04-21-TEI-P5.xml#d1e983a1048964">VMS 9 (1896)</ref>
+                     <ref type="nextLink" target="diff_2.1.html">§ 2.1</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_1.30.1.html">§ 1.30.1</ref>
+                     <ref target="10_VMS_1902_TEI_AW_25-04-21-TEI-P5.xml#d1e939a1048964">VMS 10 (1902)</ref>
+                     <ref type="nextLink" target="diff_2.1.html">§ 2.1</ref>
+                  </seg>
+               </cell>
+            </row>
+            <row role="data">
+               <cell xml:id="v1">Anmerkung . Es dünkt uns für den vorliegenden Zweck kaum nothwendig, den Ansichten, deren Bekämpfung uns beschäftigt, die Namen ihrer Autoren beizusetzen, da diese Ansichten keineswegs die Blüthe eigenthümlicher Ueberzeugungen, sondern vielmehr der Ausdruck einer allgemein gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer Musikschriftsteller hier Platz finden: Mattheson:„Wir müssen bei jeder Melodie uns eine Gemüthsbewegung (wo nicht mehr als Eine) zum Hauptzweck setzen.“(Vollkomm. Capellmeister S. 143.) Neidhardt:„Der Musik Endzweck ist, alle Affecte durch die bloßen Töne und deren Rhytmum, trotz dem besten Redner, rege zu machen.“(Vorrede zur „Temperatur.“) J. N. Forkelversteht unter den „Figuren in der Musik“ „dasselbe, was sie in der Dichtkunst und Redekunst sind, nämlich der Ausdruck der unterschiedenen Arten, nach welchen sich Empfindungen und Leidenschaften äußern.“(„Ueber die Theorie der Musik,“ Göttingen 1777. S. 26.) J. Moseldefinirt die Musik als„die Kunst,bestimmte Empfindungen durch geregelte Töne auszudrücken.“ C. F. Michaelis:„Musik ist die Kunst des Ausdrucks von Empfindungen durch Modulation der Töne. Sie ist die Sprache der Affecte“etc. („Ueber den Geist der Tonkunst,“ 2. Versuch. 1800. S. 29.) Marpurg: „Der Zweck, den der Componist sich in seiner Arbeit vorsetzen soll, ist die Natur nachzuahmen …. die Leidenschaften nach seinem Willen zu regen …. die Bewegungen der Seele, die Neigungen des Herzens nach dem Leben zu schildern.“ (Krit. Musikus, 1. Band 1750. 40. Stück.) W. Heinse:„Der Hauptendzweck der Musik ist die Nachahmung oder vielmehr Erregung derLeidenschaften.“(Musik. Dialoge. 1805. S. 30.) J. J. Engel: „Eine Sinfonie, eine Sonate u. s. w. muß die Ausführung einer Leidenschaft, die aber in mannigfaltige Empfindungen ausbeugt, enthalten.“ („Ueber mus. Malerei.“ 1780. S. 29.) J. Ph. Kirnberger: „Ein melodischer Satz (Thema) ist ein verständlicher Satz aus der Sprache der Empfindung, der einen empfindsamen Zuhörer die Gemüthslage, die ihn hervorgebracht hat, fühlen läßt.“ (Kunst des reinen Satzes. II. Theil S. 152.) Pierer’s Universallexikon (2. Auflage):„Musik ist die Kunst, durch schöne Töne Empfindungen und Seelenzustände auszudrücken. Sie steht höher als dieDichtkunst, welche nur (!) mit dem Verstande erkennbare Stimmungen darzustellen vermag, da die Musik ganz unerklärliche Empfindungen und Ahnungen ausdrückt.“ G. Schilling’sUniversallexikon der Tonkunstbringt unter dem Artikel„Musik“die gleiche Erklärung. Kochdefiniert die Musik als die „Kunst, ein angenehmes Spiel der Empfindungen durch Töne auszudrücken.“ (Mus. Lexikon. „Musik.“) André: „Musik ist die Kunst, Töne hervorzubringen, welche Empfindungen und Leidenschaften schildern, erregen und unterhalten.“ (Lehrbuch der Tonkunst I.) Sulzer: „Musik ist die Kunst, durch Töne unsre Leidenschaften auszudrücken, wie in der Sprache durch Worte.“ (Theorie der schönen Künste.) J. W. Böhm:„Nicht den Verstand, nicht die Vernunft, sondern nur das Gefühlsvermögen beschäftigen der Saiten harmonische Töne.“(Analyse des Schönen der Musik. Wien 1830. S. 62.) Gottfried Weber:„Die Tonkunst ist die Kunst, durch Töne Empfindungen auszudrücken.“(Theorie der Tonsetzkunst, 2. Aufl. 1. Bd. S. 15.) F. Hand:„Die Musik stellt Gefühle dar. Jedes Gefühl und jeder Gemüthszustand hat an sich und so auch in der Musik seinen besondern Ton und Rhytmus.“„Man kann der Musik eine weit größere Bestimmtheit (!) der Darstellung zuschreiben, als irgend eine Kunst besitzt; denn Gefühle vermag weder der malende Künstler so bestimmt zu zeichnen, …. noch glückt es dem mimischen Darsteller.“etc. (Aesthetik der Tonkunst, I. Band §§. 24. 27.) Amadeus Autodidaktus:„Die Tonkunst entquillt und wurzelt nur in der Welt der geistigen Gefühle und Empfindungen. Musikalisch melodische Töne (!) erklingen nicht dem Verstande, welcher Empfindungen ja nur beschreibt und zergliedert, … sie sprechen zu dem Gemüth“etc. (Aphorismen über Musik. Leipzig 1847. S. 329.) Fermo Bellini:„Musica è l’arte, che esprime i sentimenti e le passione col mezzo di suoni.“(Manuale alla Musica. Milano, Riccardi 1853.) Friedrich Thiersch,Allgemeine Aesthetik (Berlin 1846) §. 18 S. 101: „Die Musik ist die Kunst, durch Wahl und Verbindung der Töne Gefühle und Stimmungen des Gemüthes auszudrücken oder zu erregen.“</cell>
+               <cell xml:id="v2">Anmerkung . Es dünkt uns für den vorliegenden Zweck kaum nothwendig, den Ansichten, deren Bekämpfung uns beschäftigt, die Namen ihrer Autoren beizusetzen, da diese Ansichten keineswegs die Blüthe eigenthümlicher Ueberzeugungen, sondern vielmehr der Ausdruck einer allgemein gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer Musikschriftsteller hier Platz finden: Mattheson:„Wir müssen bei jeder Melodie uns eine Gemüthsbewegung (wo nicht mehr als Eine) zum Hauptzweck setzen.“(Vollkomm. Capellmeister S. 143.) Neidhardt:„Der Musik Endzweck ist, alle Affecte durch die bloßen Töne und deren Rhythmum, trotz dem besten Redner, rege zu machen.“(Vorrede zur „Temperatur.“) J. N. Forkelversteht unter den „Figuren in der Musik“ „dasselbe, was sie in der Dichtkunst und Redekunst sind, nämlich der Ausdruck der unterschiedenen Arten, nach welchen sich Empfindungen und Leidenschaften äußern.“(„Ueber die Theorie der Musik,“ Göttingen 1777. S. 26.) J. Moseldefinirt die Musik als„die Kunst, bestimmte Empfindungen durch geregelte Töne auszudrücken.“ C. F. Michaelis:„Musik ist die Kunst des Ausdrucks von Empfindungen durch Modulation der Töne. Sie ist die Sprache der Affecte“etc. („Ueber den Geist der Tonkunst,“ 2. Versuch. 1800. S. 29.) Marpurg: „Der Zweck, den der Componist sich in seiner Arbeit vorsetzen soll, ist die Natur nachzuahmen …. die Leidenschaften nach seinem Willen zu regen …. die Bewegungen der Seele, die Neigungen des Herzens nach dem Leben zu schildern.“ (Krit. Musikus, 1. Band 1750. 40. Stück.) W. Heinse:„Der Hauptendzweck der Musik ist die Nachahmung oder vielmehr Erregung der Leidenschaften.“(Musik. Dialoge. 1805. S. 30.) J. J. Engel: „Eine Sinfonie, eine Sonate u. s. w. muß die Ausführung einer Leidenschaft, die aber in mannigfaltige Empfindungen ausbeugt, enthalten.“ („Ueber mus. Malerei.“ 1780. S. 29.) J. Ph. Kirnberger: „Ein melodischer Satz (Thema) ist ein verständlicher Satz aus der Sprache der Empfindung, der einen empfindsamen Zuhörer die Gemüthslage, die ihn hervorgebracht hat, fühlen läßt.“ (Kunst des reinen Satzes. II. Theil S. 152.) Pierer’s Universallexikon (2. Auflage):„Musik ist die Kunst, durch schöne Töne Empfindungen und Seelenzustände auszudrücken. Sie steht höher als die Dichtkunst, welche nur (!) mit dem Verstande erkennbare Stimmungen darzustellen vermag, da die Musik ganz unerklärliche Empfindungen und Ahnungen ausdrückt.“ G. Schilling’s Universallexikon der Tonkunstbringt unter dem Artikel„Musik“die gleiche Erklärung. Kochdefiniert die Musik als die „Kunst, ein angenehmes Spiel der Empfindungen durch Töne auszudrücken.“ (Mus. Lexikon. „Musik.“) André: „Musik ist die Kunst, Töne hervorzubringen, welche Empfindungen und Leidenschaften schildern, erregen und unterhalten.“ (Lehrbuch der Tonkunst I.) Sulzer: „Musik ist die Kunst, durch Töne unsre Leidenschaften auszudrücken, wie in der Sprache durch Worte.“ (Theorie der schönen Künste.) J. W. Böhm:„Nicht den Verstand, nicht die Vernunft, sondern nur das Gefühlsvermögen beschäftigen der Saiten harmonische Töne.“(Analyse des Schönen der Musik. Wien 1830. S. 62.) Gottfried Weber:„Die Tonkunst ist die Kunst, durch Töne Empfindungen auszudrücken.“(Theorie der Tonsetzkunst, 2. Aufl. 1. Bd. S. 15.) F. Hand:„Die Musik stellt Gefühle dar. Jedes Gefühl und jeder Gemüthszustand hat an sich und so auch in der Musik seinen besondern Ton und Rhythmus.“„Man kann der Musik eine weit größere Bestimmtheit (!) der Darstellung zuschreiben, als irgend eine Kunst besitzt; denn Gefühle vermag weder der malende Künstler so bestimmt zu zeichnen, …. noch glückt es dem mimischen Darsteller.“etc. (Aesthetik der Tonkunst, I. Band §§. 24. 27.) Amadeus Autodidaktus:„Die Tonkunst entquillt und wurzelt nur in der Welt der geistigen Gefühle und Empfindungen. Musikalisch melodische Töne (!) erklingen nicht dem Verstande, welcher Empfindungen ja nur beschreibt und zergliedert, … sie sprechen zu dem Gemüth“etc. (Aphorismen über Musik. Leipzig 1847. S. 329.) Fermo Bellini:„Musica è l’arte, che esprime i sentimenti e le passione col mezzo di suoni.“(Manuale alla Musica. Milano, Riccardi 1853.) Friedrich Thiersch,Allgemeine Aesthetik (Berlin 1846) §. 18 S. 101: „Die Musik ist die Kunst, durch Wahl und Verbindung der Töne Gefühle und Stimmungen des Gemüthes auszudrücken oder zu erregen.“</cell>
+               <cell xml:id="v3">Anmerkung . Es dünkt uns für den vorliegenden Zweck kaum nothwendig, den Ansichten, deren Bekämpfung uns beschäftigt, die Namen ihrer Autoren beizusetzen, da diese Ansichten keineswegs die Blüthe eigenthümlicher Ueberzeugungen, sondern vielmehr der Ausdruck einer allgemein gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer Musikschriftsteller hier Platz finden.</cell>
+               <cell xml:id="v4">Anmerkung. Es dünkt uns für den vorliegenden Zweck kaum nothwendig, den Ansichten, deren Bekämpfung uns beschäftigt, die Namen ihrer Autoren beizusetzen, da diese Ansichten weniger die Blüthe eigenthümlicher Ueberzeugungen, als vielmehr der Ausdruck einer allgemein gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer Musikschriftsteller hier Platz finden.</cell>
+               <cell xml:id="v5">Anmerkung . Es dünkt uns für den vorliegenden Zweck kaum nothwendig, den Ansichten, deren Bekämpfung uns beschäftigt, die Namen ihrer Autoren beizusetzen, da diese Ansichten weniger die Blüthe eigenthümlicher Ueberzeugungen, als vielmehr der Ausdruck einer allgemein gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer Musikschriftsteller hier Platz finden.</cell>
+               <cell xml:id="v6">Anmerkung . Es dünkt uns für den vorliegenden Zweck kaum nothwendig, den Ansichten, deren Bekämpfung uns beschäftigt, die Namen ihrer Autoren beizusetzen, da diese Ansichten weniger die Blüthe eigenthümlicher Ueberzeugungen, als vielmehr der Ausdruck einer allgemein gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer Musikschriftsteller, aus der großen Menge derer, welche dafür zu Gebote stehen, hier Platz finden.</cell>
+               <cell xml:id="v7">Anmerkung . Es dünkt uns für den vorliegenden Zweck kaum nothwendig, den Ansichten, deren Bekämpfung uns beschäftigt, die Namen ihrer Autoren beizusetzen, da diese Ansichten weniger die Blüthe eigenthümlicher Ueberzeugungen, als vielmehr der Ausdruck einer allgemein gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer Musikschriftsteller aus der großen Menge derer, welche dafür zu Gebote stehen, hier Platz finden.</cell>
+               <cell xml:id="v8">Anmerkung . Es dünkt uns für den vorliegenden Zweck kaum notwendig, den Ansichten, deren Bekämpfung uns beschäftigt, die Namen ihrer Autoren beizusetzen, da diese Ansichten weniger die Blüte eigentümlicher Überzeugungen, als vielmehr der Ausdruck einer allgemein gewordenen traditionellen Denkweise sind. Nur um einen Einblick in die ausgebreitete Herrschaft dieser Grundsätze zu gewähren, mögen einige Citate älterer und neuerer Musikschriftsteller aus der großen Menge derer, welche dafür zu Gebote stehen, hier Platz finden.</cell>
+            </row>
+         </table>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,126 @@
+<teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+    <fileDesc>
+        <titleStmt>
+            <title type="main">Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik der Tonkunst.</title>
+            <title type="sub">Digital Edition.</title>
+            <author ref="http://d-nb.info/gnd/118545825">Eduard Hanslick</author>
+            <editor xml:id="aw" ref="http://d-nb.info/gnd/1033827401">Alexander Wilfling</editor>
+            <respStmt>
+                <resp>transcription</resp>
+                <persName xml:id="mw">Mareike Wilfing</persName>
+            </respStmt>
+            <respStmt>
+                <resp>TEI modelling and conversion</resp>
+                <persName xml:id="ds">Daniel Schopper</persName>
+            </respStmt>
+            <respStmt>
+                <resp>text annotation and document finalization</resp>
+                <persName>Alexander Wilfing</persName>
+            </respStmt>
+        </titleStmt>
+        <editionStmt>
+            <edition>Semantically annotated full-text edition</edition>
+            <funder>
+                <orgName ref="http://d-nb.info/gnd/2054142-9">FWF Austrian Science Fund</orgName>
+            </funder>
+            <funder>
+                <orgName resp="http://d-nb.info/gnd/1226158307">Austrian Academy of Sciences, Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </funder>
+        </editionStmt>
+        <publicationStmt>
+            <publisher>
+                <orgName resp="http://d-nb.info/gnd/1226158307">Austrian Academy of Sciences, Austrian Centre for Digital Humanities and Cultural Heritage</orgName>
+            </publisher>
+            <address>
+                <addrLine>Sonnenfelsgasse 19</addrLine>
+                <addrLine>1010 Vienna</addrLine>
+            </address>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2021">2021</date>
+            <availability>
+                <licence target="https://creativecommons.org/licenses/by/4.0/"> Attribution 4.0 International (CC BY 4.0)</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <biblStruct>
+                <monogr>
+                    <author>Eduard Hanslick</author>
+                    <title>Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik der Tonkunst</title>
+                    <edition n="04">Vierte verbesserte Auflage.</edition>
+                    <imprint>   
+                        <pubPlace>
+                            <placeName>Leipzig,</placeName>
+                        </pubPlace>
+                        <date when="1874">1874</date>
+                        <publisher>Johann Ambrosius Barth</publisher>
+                    </imprint>
+                </monogr>
+            </biblStruct>
+        </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+        <projectDesc>
+            <p>This digital text has been transcribed and encoded within the project „Hanslicks "Vom Musikalisch-Schönen": Dynamische Aspekte des Texts und der Kontexte“ (FWF P 30554)</p>
+        </projectDesc>
+        <appInfo>
+            <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                <label>DOCX to TEI</label>
+            </application>
+            <application ident="upconversionScripts" version="1.0">
+                <label>upconversion scripts</label>
+                <desc>
+                    After basic conversion to TEI using the TEI-C Stylesheets, a set of chained XSLT scripts has been applied to the resulting XML documents:
+                    <list rend="numbered">
+                        <item>simplifyStyles.xsl</item>
+                        <item>upconvert.xsl</item>
+                        <item>cleanup.xsl</item>
+                        <item>addPNum.xsl</item>
+                    </list>
+                </desc>
+            </application>
+            <application ident="oXygen" version="20">
+                <label>oXygen XML Editor</label>
+                <desc>Further manual editing was done using the oXygen XML Editor, version 20 (and later)</desc>
+            </application>
+        </appInfo>
+        <editorialDecl>
+            <p>Annotation according to TEI P5</p>
+            <segmentation>
+                <p>This text has not been segmented to any extent. However, to ease programmatic collation, paragraphs have been furnished with @n attributes with corresponding paragraphs bearing the same attribute values.</p>
+            </segmentation>
+            <correction method="markup">
+                <p>Any corrections applied to the source have been identified using markup.</p>
+            </correction>
+            <normalization>
+                <p>Original orthography has been retained.</p>
+            </normalization>
+            <hyphenation eol="hard">
+                <p>All soft end-of-line hyphenation has been removed.</p>
+            </hyphenation>
+            <interpretation>
+                <p>The following textual phenomena have been marked up: <list>
+                    <item>personal names (historical and fictional)</item>
+                    <item>place names</item>
+                    <item>bibliographic references</item>
+                    <item>dates</item>
+                </list>
+                </p>
+            </interpretation>
+            <punctuation>
+                <p>Original punctuation has been retained.</p>
+            </punctuation>
+        </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident="de" usage="98"/>
+        </langUsage>
+    </profileDesc>
+    <revisionDesc>
+        <listChange>
+            <change when="2021-01-26" type="creation" who="#aw">finalized docx source</change>
+            <change when="2021-03-18T10:21:25Z" who="#ds">conversion to TEI</change>
+            <change when="2021-03-19" who="#ds">manual corrections to title page</change>
+        </listChange>
+    </revisionDesc>
+</teiHeader>

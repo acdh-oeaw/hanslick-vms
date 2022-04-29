@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VMS Organisation Index</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head rendition="#b">B</head>
+            <list>
+               <item>
+                  <name>Bachianer</name>
+                  <list type="index-references">
+                     <item>
+                        <ref target="06_VMS_1881_TEI_AW_25-04-21-TEI-P5.html#d1e1772a1048964">VMS 6, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="07_VMS_1885_TEI_AW_25-04-21-TEI-P5.html#d1e1710a1048964">VMS 7, [VII]</ref>
+                     </item>
+                     <item>
+                        <ref target="08_VMS_1891_TEI_AW_25-04-21-TEI-P5.html#d1e1710a1048964">VMS 8, [V]</ref>
+                     </item>
+                     <item>
+                        <ref target="09_VMS_1896_TEI_AW_25-04-21-TEI-P5.html#d1e1713a1048964">VMS 9, [VI]</ref>
+                     </item>
+                     <item>
+                        <ref target="10_VMS_1902_TEI_AW_25-04-21-TEI-P5.html#d1e1677a1048964">VMS 10, [IV]</ref>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <name>Beethovenianer</name>
+                  <list type="index-references">
+                     <item>
+                        <ref target="06_VMS_1881_TEI_AW_25-04-21-TEI-P5.html#d1e1778a1048964">VMS 6, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="07_VMS_1885_TEI_AW_25-04-21-TEI-P5.html#d1e1716a1048964">VMS 7, [VII]</ref>
+                     </item>
+                     <item>
+                        <ref target="08_VMS_1891_TEI_AW_25-04-21-TEI-P5.html#d1e1716a1048964">VMS 8, [V]</ref>
+                     </item>
+                     <item>
+                        <ref target="09_VMS_1896_TEI_AW_25-04-21-TEI-P5.html#d1e1719a1048964">VMS 9, [VI]</ref>
+                     </item>
+                     <item>
+                        <ref target="10_VMS_1902_TEI_AW_25-04-21-TEI-P5.html#d1e1683a1048964">VMS 10, [IV]</ref>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head rendition="#b">G</head>
+            <list>
+               <item>
+                  <name>Gluckisten</name>
+                  <list type="index-references">
+                     <item>
+                        <ref target="02_VMS_1858_TEI_AW_25-04-21-TEI-P5.html#d1e2002a1048964">VMS 2, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="03_VMS_1865_TEI_AW_25-04-21-TEI-P5.html#d1e2142a1048964">VMS 3, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="04_VMS_1874_TEI_AW_25-04-21-TEI-P5.html#d1e2146a1048964">VMS 4, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="05_VMS_1876_TEI_AW_25-04-21-TEI-P5.html#d1e2109a1048964">VMS 5, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="06_VMS_1881_TEI_AW_25-04-21-TEI-P5.html#d1e2449a1048964">VMS 6, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="07_VMS_1885_TEI_AW_25-04-21-TEI-P5.html#d1e2408a1048964">VMS 7, [VII]</ref>
+                     </item>
+                     <item>
+                        <ref target="08_VMS_1891_TEI_AW_25-04-21-TEI-P5.html#d1e2417a1048964">VMS 8, [V]</ref>
+                     </item>
+                     <item>
+                        <ref target="09_VMS_1896_TEI_AW_25-04-21-TEI-P5.html#d1e2421a1048964">VMS 9, [VI]</ref>
+                     </item>
+                     <item>
+                        <ref target="10_VMS_1902_TEI_AW_25-04-21-TEI-P5.html#d1e2378a1048964">VMS 10, [IV]</ref>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <name>Gluck</name>
+                  <list type="index-references">
+                     <item>
+                        <ref target="01_VMS_1854_TEI_AW_25-04-21-TEI-P5.html#d1e1836a1048964">VMS 1, [V]</ref>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head rendition="#b">I</head>
+            <list>
+               <item>
+                  <name>isten</name>
+                  <list type="index-references">
+                     <item>
+                        <ref target="01_VMS_1854_TEI_AW_25-04-21-TEI-P5.html#d1e1840a1048964">VMS 1, [V]</ref>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head rendition="#b">P</head>
+            <list>
+               <item>
+                  <name>Piccinisten</name>
+                  <list type="index-references">
+                     <item>
+                        <ref target="02_VMS_1858_TEI_AW_25-04-21-TEI-P5.html#d1e2008a1048964">VMS 2, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="03_VMS_1865_TEI_AW_25-04-21-TEI-P5.html#d1e2148a1048964">VMS 3, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="04_VMS_1874_TEI_AW_25-04-21-TEI-P5.html#d1e2152a1048964">VMS 4, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="05_VMS_1876_TEI_AW_25-04-21-TEI-P5.html#d1e2115a1048964">VMS 5, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="06_VMS_1881_TEI_AW_25-04-21-TEI-P5.html#d1e2455a1048964">VMS 6, [VIII]</ref>
+                     </item>
+                     <item>
+                        <ref target="07_VMS_1885_TEI_AW_25-04-21-TEI-P5.html#d1e2414a1048964">VMS 7, [VII]</ref>
+                     </item>
+                     <item>
+                        <ref target="08_VMS_1891_TEI_AW_25-04-21-TEI-P5.html#d1e2423a1048964">VMS 8, [V]</ref>
+                     </item>
+                     <item>
+                        <ref target="09_VMS_1896_TEI_AW_25-04-21-TEI-P5.html#d1e2427a1048964">VMS 9, [VI]</ref>
+                     </item>
+                     <item>
+                        <ref target="10_VMS_1902_TEI_AW_25-04-21-TEI-P5.html#d1e2384a1048964">VMS 10, [IV]</ref>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <name>Piccini</name>
+                  <list type="index-references">
+                     <item>
+                        <ref target="01_VMS_1854_TEI_AW_25-04-21-TEI-P5.html#d1e1845a1048964">VMS 1, [V]</ref>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <div>
+            <head rendition="#b">S</head>
+            <list>
+               <item>
+                  <name>sten</name>
+                  <list type="index-references">
+                     <item>
+                        <ref target="01_VMS_1854_TEI_AW_25-04-21-TEI-P5.html#d1e1849a1048964">VMS 1, [V]</ref>
+                     </item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
