@@ -28,7 +28,7 @@
             </xsl:if>
             <meta name="viewport" content="width=device-width, initial-scale=1"/>            
             <xsl:apply-templates/> 
-            <link href="../public/assets/css/edition.css" rel="stylesheet"/>
+            <link href="assets/css/edition.css" rel="stylesheet"/>
             <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous"/>
         </xsl:copy>
     </xsl:template>
