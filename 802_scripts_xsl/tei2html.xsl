@@ -104,4 +104,10 @@
         </span>
     </xsl:template>
     
+    <xsl:template match="tei:bibl">
+        <span class="bibl" id="{@xml:id}">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
 </xsl:stylesheet>
