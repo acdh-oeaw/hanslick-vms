@@ -1,3 +1,5 @@
+[![Build and publish](https://github.com/acdh-oeaw/hanslick-vms/actions/workflows/build.yml/badge.svg)](https://github.com/acdh-oeaw/hanslick-vms/actions/workflows/build.yml)
+
 # Hanslick VMS
 
 This git repository currently contains test data of the [FWF edition project P 30554](https://pf.fwf.ac.at/project_pdfs/pdf_abstracts/p30554d.pdf) on Eduard Hanslick: „Vom Musikalisch-Schönen. Ein Beitrag zur Revision der Aesthetik der Tonkunst.“
@@ -5,6 +7,7 @@ This git repository currently contains test data of the [FWF edition project P 3
 Provided by Alexander and Meike Wilfing, Sept 2018
 
 * 102_02_tei-simple contains the "resulting" TEI data to be manually edited
+* 102_02_tei-simple_refactored contains a recatroed version of 102_02_tei-simple with manual and automated changes
 
 Cf. https://redmine.acdh.oeaw.ac.at/issues/17183
 
@@ -45,19 +48,10 @@ NB: if a `<persName>` element contains a `@key` attribute this will be used as t
 
 ## (Re)building the website
 
-* run the *TEI P5 XHTML* transformation scenario on
-  * 102_02_tei-simple
-  * 102_04_indexes
-  * 102_05_comp
-  * 102_06_paratexts
-
-The transcformation consists in the following steps:
-
-* first ,`082_scripts_xsl/tei2html.xsl` is applied to the TEI input which overrides some specific templates from the TEI stylesheets
-* a postporcessing stylesheet, `082_scripts_xsl/xhtmlPostPro.xsl` is applied on the result which injects necessary CSS and JS references as well as the basic menu structure.    
-
-NB The TEI to HTML build process is only a preliminary solution and should be revisited anytime soon. 
+Java Ant is required to re-build the website. Find the Ant workflow in `build.yml`.
 
 ## Deployment 
 
-After committing and pushing, all data inside of the `public` directory will be automatically deployed by the gitlab CI pipeline in place.
+Currently every push to the repository starts the Github Actions workflow. 
+For more information about the workflow see `build.yml` in Github Workflows.
+All data stored in `./public` are published with Github Pages.
