@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="d1e1a1048964" prev="06_VMS_1854_TEI_AW_26.01.21-TEI-P5" next="08_VMS_1854_TEI_AW_26.01.21-TEI-P5">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="d1e1a1048964" prev="06_VMS_1854_TEI_AW_26-01-21-TEI-P5" next="08_VMS_1854_TEI_AW_26-01-21-TEI-P5">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -202,11 +202,11 @@
             <p n="V2.1xyz" xml:id="d1e365a1048964">Die vorliegende siebente Auflage dieser zuerst im J. <date>1854</date> erschienenen Schrift unterscheidet sich von der 
                <title>fünften (1876)</title>
                <title/>
-               <ref type="edition" target="05_VMS_1876_TEI_AW_26.01.21-TEI-P5.html">fünften (1876)</ref>
+               <ref type="edition" target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.html">fünften (1876)</ref>
                 und 
                <title>sechsten (1881)</title>
                <title/>
-               <ref type="edition" target="06_VMS_1881_TEI_AW_26.01.21-TEI-P5.html">sechsten (1881)</ref>
+               <ref type="edition" target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.html">sechsten (1881)</ref>
                 nicht durch wesentliche Umgestaltung, sondern nur durch mancherlei erklärende und erweiternde Beisätze. Ich möchte sie am liebsten mit denselben Worten einleiten, welche der treffliche <persName xml:id="d1e384a1048964">Fr. Th. </persName>
                <emph>
                   <persName xml:id="d1e389a1048964">Vischer</persName>
@@ -224,7 +224,7 @@
                 Der Leser wird mir daher wohl auch die Wiederholung einiger Bemerkungen gestatten, mit welchen ich das Erscheinen der 
                <title>dritten Auflage</title>
                <title/>
-               <ref type="edition" target="03_VMS_1865_TEI_AW_26.01.21-TEI-P5.html">dritten Auflage</ref>
+               <ref type="edition" target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html">dritten Auflage</ref>
                 begleitet habe. Der Mängel dieser Abhandlung bin ich mir sehr lebhaft bewußt. Demungeachtet hat das weit über Erwarten günstige Schicksal der früheren Auflagen und der mich hocherfreuende Antheil, <pb n="[IX]"/> mit welchem bedeutende Fachmänner philosophischer wie musikalischer Disziplin davon Act nahmen, mich überzeugt, daß meine Ideen, auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind. Eine merkwürdige Uebereinstimmung mit diesen Anschauungen fand ich, auf’s freudigste überrascht, in den erst vor 10 Jahren, nach dem Tode des Dichters, erschienenen kleinen Aufsätzen und Aphorismen über Musik von 
                <emph>
                   <persName xml:id="d1e444a1048964">Grillparzer</persName>
@@ -265,7 +265,7 @@
             <p n="V2.6" xml:id="d1e516a1048964">Jenem <emph>negativen</emph> Hauptsatz steht correspondirend der <emph>positive</emph> gegenüber: die Schönheit eines Tonstücks ist <emph>specifisch musikalisch</emph>, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besonderen Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl <pb n="[XII]"/> Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die 
                <title>zweite Auflage</title>
                <title/>
-               <ref type="edition" target="02_VMS_1858_TEI_AW_26.01.21-TEI-P5.html">zweite Auflage</ref>
+               <ref type="edition" target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html">zweite Auflage</ref>
                 veranstaltete, waren eben 
                <persName xml:id="d1e534a1048964">Lißt</persName>
                ʼs

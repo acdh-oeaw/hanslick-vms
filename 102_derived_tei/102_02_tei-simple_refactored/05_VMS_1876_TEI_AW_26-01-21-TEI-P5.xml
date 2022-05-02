@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="d1e1a1048964" prev="04_VMS_1854_TEI_AW_26.01.21-TEI-P5" next="06_VMS_1854_TEI_AW_26.01.21-TEI-P5">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="d1e1a1048964" prev="04_VMS_1854_TEI_AW_26-01-21-TEI-P5" next="06_VMS_1854_TEI_AW_26-01-21-TEI-P5">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -197,15 +197,15 @@
             <head>Vorwort zur fünften Auflage.</head>
             <p n="V2.1 &amp; V2.2" xml:id="d1e357a1048964">Die vorliegende fünfte Auflage unterscheidet sich von der 
                <title>dritten (1865)</title>
-               <ref type="edition" target="03_VMS_1865_TEI_AW_26.01.21-TEI-P5.html">dritten (1865)</ref>
+               <ref type="edition" target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html">dritten (1865)</ref>
                und der 
                <title>vierten (1874)</title>
                <title/>
-               <ref type="edition" target="04_VMS_1874_TEI_AW_26.01.21-TEI-P5.html">vierten (1874)</ref>
+               <ref type="edition" target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.html">vierten (1874)</ref>
                 durch keinerlei wesentliche Veränderung, sondern lediglich durch einige erweiternde Beisätze und stylistische Verbesserungen. Meine Ueberzeugungen sind dieselben geblieben, desgleichen die Positionen der (nur noch schroffer sich gegenüberstehenden) Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung der Bemerkungen gestatten, mit welchen ich das Erscheinen der 
                <title>dritten Auflage</title>
                <title/>
-               <ref type="edition" target="03_VMS_1865_TEI_AW_26.01.21-TEI-P5.html">dritten Auflage</ref>
+               <ref type="edition" target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html">dritten Auflage</ref>
                 begleitet habe. Zunächst die Versicherung, daß ich der Mängel dieses Buches mir sehr lebhaft bewußt bin; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin mit jedem Jahre schwerer umformen. Uebrigens hat das weit über mein Erwarten günstige Schicksal der früheren Auflagen und der mich hocherfreuende Antheil, mit welchem Männer wie 
                <emph>
                   <persName xml:id="d1e381a1048964">Vischer</persName>
@@ -246,7 +246,7 @@
             <p n="V2.6" xml:id="d1e454a1048964">Jenem <emph>negativen</emph> Hauptsatz steht correspondirend der <emph>positive</emph> gegenüber: die Schönheit eines Tonstücks ist <emph>specifisch musikalisch</emph>, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die 
                <title>zweite Auflage</title>
                <title/>
-               <ref type="edition" target="02_VMS_1858_TEI_AW_26.01.21-TEI-P5.html">zweite Auflage</ref>
+               <ref type="edition" target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html">zweite Auflage</ref>
                 veranstaltete, waren eben 
                <persName xml:id="d1e470a1048964">Lißt</persName>ʼs
                 Programm<pb n="[X]" break="no"/>ständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch 
