@@ -168,53 +168,6 @@
          <div type="toc"/>
       </front>
       <body>
-         <div type="contents">
-            <head>Inhalt.</head>            
-            <list>
-               <head>Seite</head>
-               <item>
-                  <label rendition="#block #bold">Kapitel I.</label>
-                  <list type="numbered">
-                     <item n="a)">Unwissenschaftlicher Standpunkt der bisherigen musikalischen Aesthetik       
-                        <ref type="chapter" target="#index.xml-body.1_div.3">1</ref>                        
-                     </item>
-                     <item n="b)">Introduction, or How I stopped Worrying and Learned to Love
-                        Interpretation <ref type="chapter" target="#index.xml-body.1_div.3">3</ref>
-                     </item>
-                  </list>
-               </item>
-               <item>
-                  <label rendition="#block #bold">Kapitel II.</label>
-                  Die Gefühle sind nicht Inhalt der Musik       
-                  <ref type="chapter" target="#index.xml-body.1_div.4">12</ref>
-               </item>
-               <item>
-                  <label rendition="#block #bold">Kapitel III.</label>
-                  Das Musikalisch-Schöne       
-                  <ref type="chapter" target="#index.xml-body.1_div.5">31</ref>
-               </item>
-               <item>
-                  <label rendition="#block #bold">Kapitel IV.</label>
-                  Analyse des subjectiven Eindrucks der Musik       
-                  <ref type="chapter" target="#index.xml-body.1_div.6">52</ref>
-               </item>
-               <item>
-                  <label rendition="#block #bold">Kapitel V.</label>
-                  Das ästhetische Aufnehmen der Musik gegenüber dem pathologischen      
-                  <ref type="chapter" target="#index.xml-body.1_div.7">70</ref>
-               </item>
-               <item>
-                  <label rendition="#block #bold">Kapitel VI.</label>
-                  Die Beziehungen der Tonkunst zur Natur      
-                  <ref target="#index.xml-body.1_div.8">83</ref>
-               </item>
-               <item>
-                  <label rendition="#block #bold">Kapitel VII.</label>
-                  Die Begriffe „Inhalt“ und „Form“ in der Musik      
-                  <ref type="chapter" target="#index.xml-body.1_div.9">95</ref>
-               </item>
-            </list>
-         </div>
          <div>
             <head>Vorwort.</head>
             <p n="V1.1" xml:id="d1e320a1048964">Daß die bisherige „Aesthetik der Tonkunst“ einer durchgängigen Revision bedarf, wird kaum von Kundigen geläugnet werden.</p>
