@@ -80,4 +80,22 @@
         </figure>
     </xsl:template>
     
+    <xsl:template match="tei:cit">
+        <span class="cit">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
+    <xsl:template match="tei:quote">
+        <span class="quote">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
+    <xsl:template match="tei:milestone[@unit='section']">
+        <span class="asterisk">
+            ***
+        </span>
+    </xsl:template>
+    
 </xsl:stylesheet>
