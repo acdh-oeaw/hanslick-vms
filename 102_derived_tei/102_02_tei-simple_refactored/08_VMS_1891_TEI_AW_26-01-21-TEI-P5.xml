@@ -573,7 +573,7 @@
                   </cit> lehrt er in seinem <bibl xml:id="d1e2242a1048964">„Vollkommenen Kapellmeister“ (S. 230 ff.)</bibl>: <cit>
                      <quote>„Die Leidenschaft, welche in einer Kurrende vorgetragen werden soll, ist die Hoffnung.“</quote>
                   </cit>
-                  <cit><quote>„Die Sarabande hat keine andere Leidenschaft auszudrücken, als die<emph>Ehrfurcht</emph>.“„Im <q>Concerto grosso</q> führt die<emph>Wollust</emph> das Regiment.“</quote></cit> Die <emph>Chaconne</emph> habe <cit>
+                     <cit><quote>„Die Sarabande hat keine andere Leidenschaft auszudrücken, als die<emph>Ehrfurcht</emph>.“„Im <q xml:lang="italian">Concerto grosso</q> führt die<emph>Wollust</emph> das Regiment.“</quote></cit> Die <emph>Chaconne</emph> habe <cit>
                      <quote>„Ersättigung“</quote>
                   </cit> auszudrücken, die <emph>Ouverture</emph>
                   <cit>
@@ -990,7 +990,7 @@
                <q xml:lang="latin">stupiditas</q>
                ) geheilt worden sei.
                
-                  <note place="foot" xml:id="d1e4381a1048964" n="32"> Die höchste Konfusion erreichte diese Lehre bei dem berühmten Arzt <persName xml:id="d1e4383a1048964">Baptista Porta</persName>, welcher die Begriffe von Medizinalpflanze und Musikinstrument kombinierte und die Wassersucht mit einer Flöte heilte, die aus den Stengeln des <emph>Helleborus</emph> verfertigt war. Ein aus dem <emph>populus</emph> verfertigtes Musikinstrument sollte Hüftschmerzen, ein aus <emph>Zimtrohr</emph> geschnitzes Ohnmachten heilen. (<bibl xml:id="d1e4395a1048964">Encyclopédie, article „musique“</bibl>
+               <note place="foot" xml:id="d1e4381a1048964" n="32"> Die höchste Konfusion erreichte diese Lehre bei dem berühmten Arzt <persName xml:id="d1e4383a1048964">Baptista Porta</persName>, welcher die Begriffe von Medizinalpflanze und Musikinstrument kombinierte und die Wassersucht mit einer Flöte heilte, die aus den Stengeln des <emph>Helleborus</emph> verfertigt war. Ein aus dem <q xml:lang="latin">populus</q> verfertigtes Musikinstrument sollte Hüftschmerzen, ein aus <emph>Zimtrohr</emph> geschnitzes Ohnmachten heilen. (<bibl xml:id="d1e4395a1048964">Encyclopédie, article „musique“</bibl>
                   <bibl xml:id="d1e4399a1048964">.</bibl>)</note>
                
             </p>

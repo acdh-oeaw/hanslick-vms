@@ -521,7 +521,7 @@
                      <quote>„Die Leidenschaft, welche in einer Courrante vorgetragen werden soll, ist die Hoffnung.“</quote>
                   </cit>
                      <cit><quote>„Die Sarabande hat keine andere Leidenschaft auszudrücken, als die<emph>Ehrsucht</emph>.“</quote></cit>
-                     <cit><quote>„Im <q>Concerto grosso</q> führt die<emph>Wollust</emph>das Re-<pb n="[36]"/>giment.“</quote></cit> Die <emph>Chaconne</emph> habe <cit>
+                     <cit><quote>„Im <q xml:lang="italian">Concerto grosso</q> führt die<emph>Wollust</emph>das Re-<pb n="[36]"/>giment.“</quote></cit> Die <emph>Chaconne</emph> habe <cit>
                      <quote>„Ersättigung“</quote>
                   </cit> auszudrücken, die <emph>Ouvertüre</emph>
                   <cit>
@@ -921,7 +921,7 @@
                <q xml:lang="latin">stupiditas</q>
                ) geheilt worden sei.
                
-                  <note place="foot" xml:id="d1e3837a1048964" n="21"> Die höchste Confusion erreichte diese Lehre bei dem berühmten Arzt <persName xml:id="d1e3839a1048964">Baptista Porta</persName>, welcher die Begriffe von Medicinalpflanze und Musikinstrument combinirte und die Wassersucht mit einer Flöte heilte, die aus den Stengeln des <emph>Helleborus</emph> verfertigt war. Ein aus dem <emph>populus</emph> verfertigtes Musikinstrument sollte Hüftschmerzen, ein aus <emph>Zimmtrohr</emph> geschnitzes Ohnmachten heilen. (<bibl xml:id="d1e3851a1048964">Encyclopédie, article „musique“</bibl>
+               <note place="foot" xml:id="d1e3837a1048964" n="21"> Die höchste Confusion erreichte diese Lehre bei dem berühmten Arzt <persName xml:id="d1e3839a1048964">Baptista Porta</persName>, welcher die Begriffe von Medicinalpflanze und Musikinstrument combinirte und die Wassersucht mit einer Flöte heilte, die aus den Stengeln des <emph>Helleborus</emph> verfertigt war. Ein aus dem <q xml:lang="latin">populus</q> verfertigtes Musikinstrument sollte Hüftschmerzen, ein aus <emph>Zimmtrohr</emph> geschnitzes Ohnmachten heilen. (<bibl xml:id="d1e3851a1048964">Encyclopédie, article „musique“</bibl>
                   <bibl xml:id="d1e3855a1048964">.</bibl>)</note>
                
             </p>

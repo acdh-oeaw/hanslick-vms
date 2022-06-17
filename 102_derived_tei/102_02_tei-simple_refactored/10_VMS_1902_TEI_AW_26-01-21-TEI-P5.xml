@@ -547,7 +547,7 @@
                      <quote>„Die Leidenschaft, welche in einer Kurrende vorgetragen werden soll, ist die Hoffnung.“</quote>
                   </cit>
                   <cit><quote>„Die Sarabande hat keine andere Leidenschaft auszudrücken, als die<emph>Ehrsucht</emph>.“</quote></cit>
-                  <cit><quote>„Im <q>Concerto crosso</q> führt die<emph>Wollust</emph> das Regiment.“</quote></cit> Die <emph>Chaconne</emph> habe <cit>
+                     <cit><quote>„Im <q xml:lang="italian">Concerto grosso</q> führt die<emph>Wollust</emph> das Regiment.“</quote></cit> Die <emph>Chaconne</emph> habe <cit>
                      <quote>„Ersättigung“</quote>
                   </cit> auszudrücken, die <emph>Ouverture</emph>
                   <cit>
@@ -970,7 +970,7 @@
                <q xml:lang="latin">stupiditas</q>
                ) geheilt worden sei.
                
-                  <note place="foot" xml:id="d1e4358a1048964" n="32"> Die höchste Konfusion erreichte diese Lehre bei dem berühmten Arzt <persName xml:id="d1e4360a1048964">Baptista Porta</persName>, welcher die Begriffe von Medizinalpflanze und Musikinstrument kombinierte und die Wassersucht mit einer Flöte heilte, die aus den Stengeln des <emph>Helleborus</emph> verfertigt war. Ein aus dem <emph>populus</emph> verfertigtes Musikinstrument sollte Hüftschmerzen, ein aus <emph>Zimtrohr</emph> geschnitzes Ohnmachten heilen. (<bibl xml:id="d1e4372a1048964">Encyclopédie, article „musique“</bibl>.)</note>
+               <note place="foot" xml:id="d1e4358a1048964" n="32"> Die höchste Konfusion erreichte diese Lehre bei dem berühmten Arzt <persName xml:id="d1e4360a1048964">Baptista Porta</persName>, welcher die Begriffe von Medizinalpflanze und Musikinstrument kombinierte und die Wassersucht mit einer Flöte heilte, die aus den Stengeln des <emph>Helleborus</emph> verfertigt war. Ein aus dem <q xml:lang="latin">populus</q> verfertigtes Musikinstrument sollte Hüftschmerzen, ein aus <emph>Zimtrohr</emph> geschnitzes Ohnmachten heilen. (<bibl xml:id="d1e4372a1048964">Encyclopédie, article „musique“</bibl>.)</note>
                
             </p>
             <p n="4.27" xml:id="d1e4377a1048964">Rücksichtlich der <emph>Begründung</emph> ihrer Theorie lassen sich diese Schriftsteller in zwei Klassen teilen.</p>
