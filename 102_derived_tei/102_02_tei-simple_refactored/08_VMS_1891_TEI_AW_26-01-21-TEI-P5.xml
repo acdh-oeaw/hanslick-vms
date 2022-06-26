@@ -198,8 +198,6 @@
          <div>
             <head>Vorwort zur achten Auflage.</head>
             <p n="V2.1xyz" xml:id="d1e365a1048964">An der vorliegenden achten Auflage dieser zuerst im Jahre <date>1854</date> erschienenen Schrift ist nichts weiter neu, als das passendere Format und die geschmackvollere Ausstattung. Im Texte unterscheidet sie sich von der 
-               <title>siebenten Auflage (1885)</title>
-               <title/>
                <ref type="edition" target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.html">siebenten Auflage (1885)</ref>
                 nur durch einige unwesentliche Verbesserungen. Ich möchte diese neue Auflage am liebsten mit denselben Worten einleiten, welche der treffliche <persName xml:id="d1e376a1048964">Fr. Th. </persName>
                <emph>
@@ -211,8 +209,6 @@
                </cit> sagt <persName xml:id="d1e403a1048964">Vischer</persName>, <cit><quote>„diese Studie in die gegenwärtige Sammlung auf, ohne sie gegen Angriffe, die sie erfahren hat, zu schützen. Auch verbessernden Überarbeitens habe ich mich enthalten, ausgenommen kleine unwichtige Nachhilfen. Ich würde jetzt manches vielleicht anders sagen, mehr auseinandersetzen, gedeckter, beschirmter hinstellen; <pb n="[VI]"/> wem gefällt eine Arbeit ganz, wenn er sie nach Jahren wieder liest? Allein man weiß auch, wie leicht mit nachbesserndem Eingreifen mehr verderbt als besser gemacht wird.“</quote></cit>
             </p>
             <p n="V2.2xyz" xml:id="d1e413a1048964">Wollte ich hier in Polemik eingehen, auf alle Kritiken antwortend, welche meine Schrift hervorgerufen hat, so würde dies Büchlein zu einem erschreckend starken Band anschwellen. Meine Überzeugungen sind dieselben geblieben, desgleichen die Positionen und schroff sich gegenüberstehenden Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung einiger Bemerkungen gestatten, mit welchen ich das Erscheinen der 
-               <title>dritten Auflage</title>
-               <title/>
                <ref type="edition" target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.html">dritten Auflage</ref>
                 begleitet habe. Der Mängel dieser Abhandlung bin ich mir sehr lebhaft bewußt. Demungeachtet hat das weit über Erwarten günstige Schicksal der früheren Auflagen und der mich hocherfreuende Anteil, mit welchem bedeutende Fachmänner philosophischer wie musikalischer Disziplin davon Akt nahm, mich überzeugt, daß meine Ideen, auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind. Eine merkwürdige Ubereinstimmung mit diesen Anschauungen fand ich, <pb n="[VII]"/> aufs freudigste überrascht, in den erst vor zehn Jahren, nach dem Tode des Dichters, erschienenen kleinen Aufsätzen und Aphorismen über Musik von 
                <emph>
@@ -246,8 +242,6 @@
                Wenn dies schöne Sinngedicht obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, wie ich zu vermuten Anlaß habe, so muß sich meine, von poetischen Gemütern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</p>
             <!-- end: pragraph error 01 -->
             <p n="V2.6" xml:id="d1e499a1048964">Jenem <emph>negativen</emph> Hauptsatz steht korrespondierend der <emph>positive</emph> gegenüber: die Schönheit eines Tonstücks ist <emph>spezifisch musikalisch</emph>, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Ästhetik vollständig zu beleuchten. Wenn trotzdem das polemische, negierende Element in der Ausführung ein Übergewicht erlangt, so wird man dieses in Erwägung der besonderen Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten <pb n="[X]"/> bei Stimme und mußten wohl Leute von meinem Glaubensbekenntnis zur Reaktion reizen. Als ich die 
-               <title>zweite Auflage</title>
-               <title/>
                <ref type="edition" target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.html">zweite Auflage</ref>
                 veranstaltete, waren eben 
                <persName xml:id="d1e517a1048964">Lißt</persName>s
@@ -568,7 +562,7 @@
                   <persName xml:id="d1e2450a1048964">Suard</persName>
                </emph> und <pb n="[65]"/>
                <emph>
-                  <persName xml:id="d1e2458a1048964">Abbé Arnaud</persName>
+                  Abbé <persName xml:id="d1e2458a1048964">Arnaud</persName>
                </emph> auf <persName xml:id="d1e2462a1048964">Gluck</persName>s Seite, 
                <emph>
                   <persName xml:id="d1e2467a1048964">Marmontel</persName>
@@ -1020,7 +1014,7 @@
                </emph> verlangte, die Musik solle dem Mann „Feuer aus dem Geiste schlagen“. Wohlgemerkt: „soll“. Ob aber nicht selbst ein Feuer, das durch <emph>Musik</emph> erzeugt und genährt wird, die willensstarke, denkkräftige Entwickelung des Mannes hemmend zurückhält?</p>
             <p n="5.11" xml:id="d1e4954a1048964">Jedenfalls scheint uns diese Anklage des musikalischen Einflusses würdiger als dessen übermäßige Lobpreisung. Sowie die <emph>physischen</emph> Wirkungen der Musik im geraden Verhältnis stehen zu der krankhaften Gereiztheit des ihnen entgegenkommenden Nervensystems, so wächst der <emph>moralische</emph> Einfluß der Töne mit der Unkultur des Geistes und Charakters. Je kleiner der Widerhall der Bildung, desto gewaltiger das Dreinschlagen solcher Macht. Die stärkste Wirkung übt Musik bekanntlich auf Wilde.</p>
             <p n="5.12" xml:id="d1e4961a1048964">Das schreckt unsere Musik-Ethiker nicht ab. Sie beginnen, gleichsam präludierend, am liebsten mit zahlreichen Beispielen, „wie sogar die Tiere“ sich der Macht der Tonkunst beugen. Es ist wahr, <pb n="[162]"/> der Ruf der Trompete erfüllt das Pferd mit Mut und Schlachtbegier, die Geige begeistert den Bären zu Balletversuchen, die zarte Spinne und der plumpe Elefant bewegen sich horchend bei den geliebten Klängen. Ist es denn aber wirklich so ehrenvoll, in <emph>solcher</emph> Gesellschaft Musikenthusiast zu sein?</p>
-            <p n="5.13" xml:id="d1e4968a1048964">Auf die Tierproduktionen folgen die menschlichen Kabinetstücke. Sie sind meist im Geschmack <persName xml:id="d1e4970a1048964">Alexanders des Großen</persName>, welcher durch das Flötenspiel des 
+            <p n="5.13" xml:id="d1e4968a1048964">Auf die Tierproduktionen folgen die menschlichen Kabinetstücke. Sie sind meist im Geschmack <persName xml:id="d1e4970a1048964">Alexander</persName>s des Großen, welcher durch das Flötenspiel des 
                <emph>
                   <persName xml:id="d1e4975a1048964">Timotheus</persName>
                </emph> zuerst wütend gemacht, hierauf durch Gesang wieder besänftigt wurde. So ließ der minder bekannte König von Dänemark 

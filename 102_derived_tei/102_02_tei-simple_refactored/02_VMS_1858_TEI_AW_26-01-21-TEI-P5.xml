@@ -189,10 +189,7 @@
          <div>
             <head>Vorwort zur zweiten Auflage.</head>
             <p n="V2.1" xml:id="d1e348a1048964">Die neue Auflage hat an dem Wesentlichen dieser Schrift nichts geändert. Die Hinzufügung mancher erläuternder, die Abänderung einiger mißverständlicher Sätze war das Einzige, was ich an dem Büchlein vornehmen konnte, sollte es nicht eben ein ganz anderes werden.</p>
-            <p n="V2.2" xml:id="d1e351a1048964">Der vielen Mängel meiner Arbeit bin ich mir sehr lebhaft bewußt; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin äußerst schwer umarbeiten. Ueberdies hat der günstige Erfolg der 
-               <title>ersten Auflage</title>
-               <title/>
-               <ref type="edition" target="01_VMS_1854_TEI_AW_26.01.21-TEI-P5.html">ersten Auflage</ref>
+            <p n="V2.2" xml:id="d1e351a1048964">Der vielen Mängel meiner Arbeit bin ich mir sehr lebhaft bewußt; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin äußerst schwer umarbeiten. Ueberdies hat der günstige Erfolg der <ref type="edition" target="01_VMS_1854_TEI_AW_26.01.21-TEI-P5.html">ersten Auflage</ref>
                 dargethan, daß meine Grundsätze, auch wie sie ausgesprochen waren, auf gutes Erdreich fielen.</p>
             <p n="V2.3" xml:id="d1e361a1048964">Was die Mißverständnisse betrifft, die meine Schrift erfuhr, so habe ich sie ohne Zweifel zum Theil verschuldet; zum Theil kann ich wirklich nicht umhin, die stärksten von ihnen für ab<pb n="[VIII]" break="no"/>sichtlich zu halten. Man hat mir eine vollständige „Polemik“ gegen Alles, was Gefühl ist, aufgedichtet, während jeder unbefangene und aufmerksame Leser doch unschwer erkennt, daß ich nur gegen die falsche Einmischung der Gefühle in die <emph>Wissenschaft</emph> protestire, also gegen jene ästhetischen Schwärmer kämpfe, die mit der Prätension, den Musiker zu belehren, nur ihre klingenden Opiumträume auslegen. Ich theile vollkommen die Ansicht, daß der letzte Werth des Schönen immer auf unmittelbarer Evidenz des Gefühls beruhen wird. Aber ebenso fest halte ich an der Ueberzeugung, daß man aus all den üblichen Appellationen an das Gefühl nicht ein einziges musikalisches Gesetz ableiten kann.</p>
             <p n="V2.4" xml:id="d1e368a1048964">Diese Ueberzeugung bildet den Einen, den <emph>negativen Hauptsatz</emph> dieser Untersuchung. Er wendet sich zuerst und vornehmlich gegen die allgemein verbreitete Ansicht, die Musik habe „Gefühle darzustellen.“ Es ist nicht einzusehen, wie man daraus die „Forderung einer absoluten Gefühllosigkeit der Musik“ herleiten will. Die Rose duftet, aber ihr „Inhalt“ ist doch nicht „die Darstellung des Duftes;“ der Wald verbreitet schattige Kühle, allein er <emph>stellt</emph> doch nicht „das Gefühl schattiger Kühle <emph>dar</emph>.“ Es ist kein müßiges Wortgefecht, wenn ausdrücklich gegen den Begriff „darstellen“ vorgegangen wird, denn aus ihm sind die größten Irrthümer der musikalischen Aesthetik entsprungen. Etwas „darstellen“ involvirt immer die Vorstellung von zwei getrennten, verschiedenen Dingen, deren eines erst ausdrücklich durch einen besondern Act auf das andre bezogen wird. „Gefühl“ muß der Musik innewohnen, wie der Duft der Rose, aber es liegt ihr nicht auf, wie die Maske dem Schauspieler.</p>
@@ -465,7 +462,7 @@
                   <persName xml:id="d1e2042a1048964">Suard</persName>
                </emph> und 
                <emph>
-                  <persName xml:id="d1e2048a1048964">Abbé Arnaud</persName>
+                  Abbé <persName xml:id="d1e2048a1048964">Arnaud</persName>
                </emph> auf <persName xml:id="d1e2052a1048964">Gluck</persName>ʼs Seite, 
                <emph>
                   <persName xml:id="d1e2057a1048964">Marmontel</persName>
@@ -934,7 +931,7 @@
                
                   <note place="foot" xml:id="d1e4214a1048964" n="26"> Interessant ist die Thatsache, daß man bisher nicht im Stande war, an der Spinne ein <emph>Gehörorgan</emph> zu entdecken. Sie empfindet wie viele andere Thiere die Töne <emph>blos als Bebungen</emph>. – (Vergl. <bibl xml:id="d1e4222a1048964">Harleß „Hören.“</bibl>)</note>
                 und der plumpe Elephant bewegen sich horchend bei den geliebten Klängen. Ist es denn aber wirklich so ehrenvoll, in <emph>solcher</emph> Gesellschaft Musik-Enthusiast zu sein?</p>
-            <p n="5.13" xml:id="d1e4229a1048964">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack <persName xml:id="d1e4231a1048964">Alexanderʼs des Großen</persName>, welcher durch das Saitenspiel des 
+            <p n="5.13" xml:id="d1e4229a1048964">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack <persName xml:id="d1e4231a1048964">Alexander</persName>ʼs des Großen, welcher durch das Saitenspiel des 
                <emph>
                   <persName xml:id="d1e4236a1048964">Timotheus</persName>
                </emph> zuerst wüthend gemacht, hierauf durch den Gesang des 

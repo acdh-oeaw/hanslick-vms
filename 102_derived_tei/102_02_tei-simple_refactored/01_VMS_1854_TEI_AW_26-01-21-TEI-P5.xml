@@ -247,7 +247,7 @@
                <list type="unordered">
                   <item><persName rendition="#bold" xml:id="d1e684a1048964">Mattheson</persName>:<space quantity="1" unit="char"/><cit><quote>„Wir müssen bei jeder Melodie uns eine <emph>Gemüthsbewegung</emph> (wo nicht mehr als Eine) zum Hauptzweck setzen.“</quote></cit><space quantity="1" unit="char"/>(<bibl xml:id="d1e694a1048964">Vollkomm. Capellmeister S. 143</bibl>.)</item>
                   <item><persName rendition="#bold" xml:id="d1e700a1048964">Neidhardt</persName>:<space quantity="1" unit="char"/><cit><quote>„Der Musik Endzweck ist, <emph>alle Affecte</emph> durch die bloßen Töne und deren Rhytmum, trotz dem besten Redner, rege zu machen.“</quote></cit><space quantity="1" unit="char"/>(<bibl xml:id="d1e710a1048964">Vorrede zur „Temperatur.“</bibl>)</item>
-                  <item><persName rendition="#bold" xml:id="d1e716a1048964">J. N. Forkel</persName><space quantity="1" unit="char"/>versteht unter den<cit><quote>„Figuren in der Musik“</quote></cit><space quantity="1" unit="char"/><cit><quote>„dasselbe, was sie in der Dichtkunst und Redekunst sind, nämlich der Ausdruck der unterschiedenen Arten, nach welchen sich <emph>Empfindungen</emph> und <emph>Leidenschaften</emph> äußern.“</quote></cit><space quantity="1" unit="char"/>(<bibl xml:id="d1e734a1048964">„Ueber die Theorie der Musik,“ Göttingen 1777. S. 26</bibl>.)</item>
+                  <item><persName rendition="#bold" xml:id="d1e716a1048964">Forkel</persName><space quantity="1" unit="char"/>versteht unter den<cit><quote>„Figuren in der Musik“</quote></cit><space quantity="1" unit="char"/><cit><quote>„dasselbe, was sie in der Dichtkunst und Redekunst sind, nämlich der Ausdruck der unterschiedenen Arten, nach welchen sich <emph>Empfindungen</emph> und <emph>Leidenschaften</emph> äußern.“</quote></cit><space quantity="1" unit="char"/>(<bibl xml:id="d1e734a1048964">„Ueber die Theorie der Musik,“ Göttingen 1777. S. 26</bibl>.)</item>
                   <item><persName rendition="#bold" xml:id="d1e740a1048964">J. Mosel</persName><space quantity="1" unit="char"/>definirt die Musik als<space quantity="1" unit="char"/><cit><quote>„die Kunst, <emph>bestimmte Empfindungen</emph> durch geregelte Töne auszudrücken.“</quote></cit></item>
                   <item><persName rendition="#bold" xml:id="d1e753a1048964">C. F. Michaelis</persName>:<space quantity="1" unit="char"/><cit><quote>„Musik ist die Kunst des Ausdrucks von <emph>Empfindungen</emph> durch Modulation der Töne. Sie ist die Sprache der Affecte“</quote></cit><space quantity="1" unit="char"/>etc.<space quantity="1" unit="char"/>(<bibl xml:id="d1e763a1048964">„Ueber den Geist der Tonkunst,“ 2. Versuch. 1800. S. 29</bibl>.)</item>
                   <item><persName rendition="#bold" xml:id="d1e770a1048964">Marpurg</persName>:<space quantity="1" unit="char"/><cit><quote>„Der Zweck, den der Componist sich in seiner Arbeit vorsetzen soll, ist die Natur nachzuahmen …. die Leidenschaften nach seinem Willen zu regen …. die Bewegungen der Seele, die Neigungen des Herzens nach dem Leben zu schildern.“</quote></cit><space quantity="1" unit="char"/>(<bibl xml:id="d1e778a1048964">Krit. Musikus, 1. Band 1750. 40. Stück</bibl>.)</item>
@@ -440,7 +440,7 @@
                   <persName xml:id="d1e1877a1048964">Suard</persName>
                </emph> und 
                <emph>
-                  <persName xml:id="d1e1883a1048964">Abbé Arnaud</persName>
+                  Abbé <persName xml:id="d1e1883a1048964">Arnaud</persName>
                </emph> auf <persName xml:id="d1e1887a1048964">Gluck</persName>ʼs Seite, 
                <emph>
                   <persName xml:id="d1e1893a1048964">Marmontel</persName>
@@ -955,7 +955,7 @@
                <pb n="[75]"/> der Ruf der Trompete erfüllt das Pferd mit Muth und Schlachtbegier, die Geige begeistert den Bären zu Balletversuchen, die zarte Spinne
                   <note place="foot" xml:id="d1e4057a1048964" n="23"> Interessant ist die Thatsache, daß man bisher nicht im Stande war, an der Spinne ein <emph>Gehörorgan</emph> zu entdecken. Sie empfindet wie viele andere Thiere die Töne <emph>blos als Bebungen</emph>. – (Vergl. <bibl xml:id="d1e4065a1048964">Harleß „Hören.“</bibl>)</note>
                 und der plumpe Elephant bewegen sich horchend bei den geliebten Klängen. Ist es denn aber wirklich so ehrenvoll, in <emph>solcher</emph> Gesellschaft Musik-Enthusiast zu sein?</p>
-            <p n="5.13" xml:id="d1e4072a1048964">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack <persName xml:id="d1e4074a1048964">Alexanderʼs des Großen</persName>, welcher durch das Saitenspiel des 
+            <p n="5.13" xml:id="d1e4072a1048964">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack <persName xml:id="d1e4074a1048964">Alexander</persName>ʼs des Großen, welcher durch das Saitenspiel des 
                <emph>
                   <persName xml:id="d1e4079a1048964">Timotheus</persName>
                </emph> zuerst wüthend gemacht, hierauf durch den Gesang des 

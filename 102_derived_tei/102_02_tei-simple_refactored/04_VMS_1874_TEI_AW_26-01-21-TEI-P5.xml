@@ -192,15 +192,7 @@
       <body>
          <div>
             <head>Vorwort zur vierten Auflage.</head>
-            <p n="V2.1 &amp; V2.2" xml:id="d1e355a1048964">Die vorliegende vierte Auflage unterscheidet sich von der 
-               <title>dritten (1865)</title>
-               <title/>
-               <ref type="edition" target="03_VMS_1865_TEI_AW_26.01.21-TEI-P5.html">dritten (1865)</ref>
-                durch keinerlei wesentliche Veränderung, sondern lediglich durch einige erweiternde Beisätze und stylistische Verbesserungen. Meine Ueberzeugungen sind dieselben geblieben, desgleichen die Positionen der (nur noch schroffer sich gegenüberstehenden) Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung der Bemerkungen gestatten, mit welchen ich das Erscheinen der 
-               <title>dritten Auflage</title>
-               <title/>
-               <ref type="edition" target="03_VMS_1865_TEI_AW_26.01.21-TEI-P5.html">dritten Auflage</ref>
-                begleitet habe. Zunächst die Versicherung, daß ich der Mängel dieses Buches mir sehr lebhaft bewußt bin; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin mit jedem Jahre schwerer umformen. Uebrigens hat das weit über mein Erwarten günstige Schicksal der früheren drei Auflagen und der mich hocherfreuende Antheil, mit welchem Männer wie 
+            <p n="V2.1 &amp; V2.2" xml:id="d1e355a1048964">Die vorliegende vierte Auflage unterscheidet sich von der <ref type="edition" target="03_VMS_1865_TEI_AW_26.01.21-TEI-P5.html">dritten (1865)</ref> durch keinerlei wesentliche Veränderung, sondern lediglich durch einige erweiternde Beisätze und stylistische Verbesserungen. Meine Ueberzeugungen sind dieselben geblieben, desgleichen die Positionen der (nur noch schroffer sich gegenüberstehenden) Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung der Bemerkungen gestatten, mit welchen ich das Erscheinen der <ref type="edition" target="03_VMS_1865_TEI_AW_26.01.21-TEI-P5.html">dritten Auflage</ref> begleitet habe. Zunächst die Versicherung, daß ich der Mängel dieses Buches mir sehr lebhaft bewußt bin; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin mit jedem Jahre schwerer umformen. Uebrigens hat das weit über mein Erwarten günstige Schicksal der früheren drei Auflagen und der mich hocherfreuende Antheil, mit welchem Männer wie 
                <emph>
                   <persName xml:id="d1e374a1048964">Vischer</persName>
                </emph>, 
@@ -240,8 +232,6 @@
                Wenn dies schöne Sinngedicht obendrein unter dem nachhallenden Eindruck dieser Schrift entstand, wie ich zu vermuthen Anlaß habe, so muß sich meine, von poetischen Gemüthern zumeist verketzerte Anschauung doch auch mit wahrer Poesie leidlich vertragen.</p>
             <!-- end: paragraph error 05 -->
             <p n="V2.6" xml:id="d1e450a1048964">Jenem <emph>negativen</emph> Hauptsatz steht correspondirend der <emph>positive</emph> gegenüber: die Schönheit eines Tonstücks ist <emph>specifisch musikalisch</emph> d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur <pb n="[X]"/> Reaction reizen. Als ich die 
-               <title>zweite Auflage</title>
-               <title/>
                <ref type="edition" target="02_VMS_1858_TEI_AW_26.01.21-TEI-P5.html">zweite Auflage</ref>
                 veranstaltete, waren eben 
                <persName xml:id="d1e468a1048964">Lißt</persName>ʼs
@@ -525,7 +515,7 @@
                   <persName xml:id="d1e2181a1048964">Suard</persName>
                </emph> und 
                <emph>
-                  <persName xml:id="d1e2187a1048964">Abbé Arnaud</persName>
+                  Abbé <persName xml:id="d1e2187a1048964">Arnaud</persName>
                </emph> auf <persName xml:id="d1e2191a1048964">Gluck</persName>ʼs Seite, 
                <emph>
                   <persName xml:id="d1e2196a1048964">Marmontel</persName>
@@ -983,7 +973,7 @@
                </emph> verlangte, die Musik solle dem Mann „Feuer aus dem Geiste schlagen.“ Wohlgemerkt: „soll.“ Ob aber nicht selbst ein Feuer, das durch <emph>Musik</emph> erzeugt und genährt wird, die willensstarke, denkkräftige Entwickelung des Mannes hemmend zurückhält?</p>
             <p n="5.11" xml:id="d1e4481a1048964">Jedenfalls scheint uns diese Anklage des musikalischen Einflusses würdiger als dessen übermäßige Lobpreisung. Sowie die <emph>physischen</emph> Wirkungen der Musik im geraden Verhältniß stehen zu der krankhaften Gereiztheit des ihnen entgegenkommenden Nervensystems, so wächst der <emph>moralische</emph> Einfluß der Töne mit der Uncultur des Geistes und Charakters. Je kleiner der Widerhalt der Bildung, desto gewaltiger das Dreinschlagen solcher Macht. Die stärkste Wirkung übt Musik bekanntlich auf Wilde.</p>
             <p n="5.12" xml:id="d1e4488a1048964">Das schreckt unsere Musik-Ethiker nicht ab. Sie beginnen, gleichsam präludirend, am liebsten mit zahlreichen Beispielen, „wie sogar die Thiere“ sich der Macht der Tonkunst beugen. Es ist wahr, der Ruf der Trompete erfüllt das Pferd mit Muth und Schlachtbegier, die Geige begeistert den Bären zu Balletversuchen, die zarte Spinne und der plumpe Elephant bewegen sich horchend bei den geliebten Klängen. Ist es denn aber wirklich so ehrenvoll, in <emph>solcher</emph> Gesellschaft Musik-Enthusiast zu sein?</p>
-            <p n="5.13" xml:id="d1e4493a1048964">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack <persName xml:id="d1e4495a1048964">Alexanderʼs des Großen</persName>, welcher durch das Saitenspiel des 
+            <p n="5.13" xml:id="d1e4493a1048964">Auf die Thierproductionen folgen die menschlichen Cabinetsstücke. Sie sind meist im Geschmack <persName xml:id="d1e4495a1048964">Alexander</persName>ʼs des Großen, welcher durch das Saitenspiel des 
                <emph>
                   <persName xml:id="d1e4500a1048964">Timotheus</persName>
                </emph> zuerst wüthend gemacht, hierauf durch den Gesang des 
