@@ -31,6 +31,7 @@
                                 <head rendition="#b"><xsl:value-of select="current-grouping-key()"/></head>
                                 <list>
                                     <xsl:for-each-group select="current-group()" group-by="normalize-space((@key,.)[.!=''][1])">
+                                        <xsl:sort select="normalize-space(current-grouping-key())" order="ascending"/>
                                         <item>
                                             <name><xsl:value-of select="normalize-space(current-grouping-key())"/></name>
                                             <list type="index-references">
