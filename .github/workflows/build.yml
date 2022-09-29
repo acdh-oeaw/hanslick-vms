@@ -21,11 +21,6 @@ jobs:
     - name: Build
       run: |
         ant
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
     - name: pushing files to repository
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
@@ -33,3 +28,8 @@ jobs:
         branch: master
         skip_dirty_check: true    
         skip_fetch: true
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
