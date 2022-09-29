@@ -6,7 +6,7 @@
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     version="2.0">
     <xsl:param name="collection" select="'../102_derived_tei/102_02_tei-simple_refactored'"/>
-    <xsl:param name="compOutput" select="'../102_derived_tei/102_05_comp_refactored'"/>
+    <xsl:param name="compOutput" select="'../../102_derived_tei/102_05_comp_refactored'"/>
     <xsl:template match="node() | @*" mode="pre">
         <xsl:copy>
             <xsl:apply-templates select="node() | @*" mode="#current"/>

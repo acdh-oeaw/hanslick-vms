@@ -29,7 +29,8 @@
                   <item>1.1</item>
                   <item>1.2</item>
                   <item>1.3</item>
-                  <item>1.4 &amp; 1.5</item>
+                  <item>1.4</item>
+                  <item>1.5</item>
                   <item>1.6</item>
                   <item>1.8</item>
                   <item>1.9</item>
@@ -130,8 +131,7 @@
                   <item>3.28</item>
                   <item>3.29</item>
                   <item>3.30</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
+                  <item>3.31</item>
                   <item>3.32</item>
                   <item>3.33</item>
                   <item>3.34</item>
@@ -271,10 +271,17 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
-                  <item>V2.1 &amp; V2.2</item>
-                  <item>1.4</item>
-                  <item>1.5</item>
-                  <item>1.7</item>
+                  <item>V1.1</item>
+                  <item>V1.2</item>
+                  <item>V1.3</item>
+                  <item>V1.4</item>
+                  <item>V1.5</item>
+                  <item>1.1xyz</item>
+                  <item>1.2xyz</item>
+                  <item>1.3xyz</item>
+                  <item>1.4xyz</item>
+                  <item>1.5xyz</item>
+                  <item>1.6xyz &amp; 1.7xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -283,21 +290,16 @@
                   <item>1.28</item>
                   <item>2.21</item>
                   <item>2.22</item>
-                  <item>3.31</item>
-                  <item>4.1</item>
-                  <item>4.2</item>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
-                  <item>V2.5</item>
-                  <item>V1.1</item>
-                  <item>V1.2</item>
-                  <item>V1.3</item>
-                  <item>V1.4</item>
-                  <item>V1.5</item>
+                  <item>2.26xyz</item>
+                  <item>2.27xyz</item>
+                  <item>2.28xyz</item>
+                  <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
                   <item>3.42</item>
                   <item>3.43</item>
+                  <item>4.1</item>
+                  <item>4.2 &amp; 4.3</item>
                   <item>4.41</item>
                   <item>4.42</item>
                   <item>4.43</item>
@@ -307,17 +309,15 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>1.1xyz</item>
-                  <item>1.2xyz</item>
-                  <item>1.3xyz</item>
-                  <item>1.4xyz</item>
-                  <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
-                  <item>2.26xyz</item>
-                  <item>2.27xyz</item>
-                  <item>2.28xyz</item>
-                  <item>3.21 &amp; 3.22</item>
-                  <item>4.2 &amp; 4.3</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>V2.5</item>
+                  <item>1.7</item>
+                  <item>4.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>V2.1 &amp; V2.2</item>
                </list>
             </item>
          </list>
@@ -326,58 +326,58 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
-                     <ref target="01_VMS_1854_TEI_AW_25-04-21-TEI-P5.xml#d1e3473a1048964">VMS 1 (1854)</ref>
+                     <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3473a1048964">VMS 1 (1854)</ref>
                      <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
-                     <ref target="02_VMS_1858_TEI_AW_25-04-21-TEI-P5.xml#d1e3625a1048964">VMS 2 (1858)</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e3625a1048964">VMS 2 (1858)</ref>
                      <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
-                     <ref target="03_VMS_1865_TEI_AW_25-04-21-TEI-P5.xml#d1e4008a1048964">VMS 3 (1865)</ref>
-                     <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
-                     <ref target="04_VMS_1874_TEI_AW_25-04-21-TEI-P5.xml#d1e3952a1048964">VMS 4 (1874)</ref>
-                     <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
-                     <ref target="05_VMS_1876_TEI_AW_25-04-21-TEI-P5.xml#d1e3865a1048964">VMS 5 (1876)</ref>
-                     <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
-                  </seg>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
-                     <ref target="06_VMS_1881_TEI_AW_25-04-21-TEI-P5.xml#d1e4459a1048964">VMS 6 (1881)</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e4008a1048964">VMS 3 (1865)</ref>
                      <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
-                     <ref target="07_VMS_1885_TEI_AW_25-04-21-TEI-P5.xml#d1e4372a1048964">VMS 7 (1885)</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3952a1048964">VMS 4 (1874)</ref>
+                     <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3865a1048964">VMS 5 (1876)</ref>
+                     <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
+                  </seg>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e4459a1048964">VMS 6 (1881)</ref>
                      <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
-                     <ref target="08_VMS_1891_TEI_AW_25-04-21-TEI-P5.xml#d1e4409a1048964">VMS 8 (1891)</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e4372a1048964">VMS 7 (1885)</ref>
+                     <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e4409a1048964">VMS 8 (1891)</ref>
                      <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
-                     <ref target="09_VMS_1896_TEI_AW_25-04-21-TEI-P5.xml#d1e4422a1048964">VMS 9 (1896)</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e4422a1048964">VMS 9 (1896)</ref>
                      <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.27.html">§ 4.27</ref>
-                     <ref target="10_VMS_1902_TEI_AW_25-04-21-TEI-P5.xml#d1e4382a1048964">VMS 10 (1902)</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e4382a1048964">VMS 10 (1902)</ref>
                      <ref type="nextLink" target="diff_4.29.html">§ 4.29</ref>
                   </seg>
                </cell>

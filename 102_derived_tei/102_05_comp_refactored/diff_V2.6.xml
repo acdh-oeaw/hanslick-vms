@@ -29,7 +29,8 @@
                   <item>1.1</item>
                   <item>1.2</item>
                   <item>1.3</item>
-                  <item>1.4 &amp; 1.5</item>
+                  <item>1.4</item>
+                  <item>1.5</item>
                   <item>1.6</item>
                   <item>1.8</item>
                   <item>1.9</item>
@@ -130,8 +131,7 @@
                   <item>3.28</item>
                   <item>3.29</item>
                   <item>3.30</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
+                  <item>3.31</item>
                   <item>3.32</item>
                   <item>3.33</item>
                   <item>3.34</item>
@@ -271,10 +271,17 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
-                  <item>V2.1 &amp; V2.2</item>
-                  <item>1.4</item>
-                  <item>1.5</item>
-                  <item>1.7</item>
+                  <item>V1.1</item>
+                  <item>V1.2</item>
+                  <item>V1.3</item>
+                  <item>V1.4</item>
+                  <item>V1.5</item>
+                  <item>1.1xyz</item>
+                  <item>1.2xyz</item>
+                  <item>1.3xyz</item>
+                  <item>1.4xyz</item>
+                  <item>1.5xyz</item>
+                  <item>1.6xyz &amp; 1.7xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -283,21 +290,16 @@
                   <item>1.28</item>
                   <item>2.21</item>
                   <item>2.22</item>
-                  <item>3.31</item>
-                  <item>4.1</item>
-                  <item>4.2</item>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
-                  <item>V2.5</item>
-                  <item>V1.1</item>
-                  <item>V1.2</item>
-                  <item>V1.3</item>
-                  <item>V1.4</item>
-                  <item>V1.5</item>
+                  <item>2.26xyz</item>
+                  <item>2.27xyz</item>
+                  <item>2.28xyz</item>
+                  <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
                   <item>3.42</item>
                   <item>3.43</item>
+                  <item>4.1</item>
+                  <item>4.2 &amp; 4.3</item>
                   <item>4.41</item>
                   <item>4.42</item>
                   <item>4.43</item>
@@ -307,17 +309,15 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>1.1xyz</item>
-                  <item>1.2xyz</item>
-                  <item>1.3xyz</item>
-                  <item>1.4xyz</item>
-                  <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
-                  <item>2.26xyz</item>
-                  <item>2.27xyz</item>
-                  <item>2.28xyz</item>
-                  <item>3.21 &amp; 3.22</item>
-                  <item>4.2 &amp; 4.3</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>V2.5</item>
+                  <item>1.7</item>
+                  <item>4.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>V2.1 &amp; V2.2</item>
                </list>
             </item>
          </list>
@@ -326,77 +326,77 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.5.html">§ V2.5</ref>
-                     <ref target="02_VMS_1858_TEI_AW_25-04-21-TEI-P5.xml#d1e383a1048964">VMS 2 (1858)</ref>
+                     <ref target="02_VMS_1858_TEI_AW_26-01-21-TEI-P5.xml#d1e383a1048964">VMS 2 (1858)</ref>
                      <ref type="nextLink" target="diff_V2.7.html">§ V2.7</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.5xyz.html">§ V2.5</ref>
-                     <ref target="03_VMS_1865_TEI_AW_25-04-21-TEI-P5.xml#d1e457a1048964">VMS 3 (1865)</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e457a1048964">VMS 3 (1865)</ref>
                      <ref type="nextLink" target="diff_V2.7.html">§ V2.7</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.5xyz.html">§ V2.5</ref>
-                     <ref target="04_VMS_1874_TEI_AW_25-04-21-TEI-P5.xml#d1e450a1048964">VMS 4 (1874)</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e450a1048964">VMS 4 (1874)</ref>
                      <ref type="nextLink" target="diff_V2.7.html">§ V2.7</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.5xyz.html">§ V2.5</ref>
-                     <ref target="05_VMS_1876_TEI_AW_25-04-21-TEI-P5.xml#d1e454a1048964">VMS 5 (1876)</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e454a1048964">VMS 5 (1876)</ref>
                      <ref type="nextLink" target="diff_V2.7.html">§ V2.7</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.5xyz.html">§ V2.5</ref>
-                     <ref target="06_VMS_1881_TEI_AW_25-04-21-TEI-P5.xml#d1e575a1048964">VMS 6 (1881)</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e575a1048964">VMS 6 (1881)</ref>
                      <ref type="nextLink" target="diff_V2.7.html">§ V2.7</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.5xyz.html">§ V2.5</ref>
-                     <ref target="07_VMS_1885_TEI_AW_25-04-21-TEI-P5.xml#d1e516a1048964">VMS 7 (1885)</ref>
+                     <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e516a1048964">VMS 7 (1885)</ref>
                      <ref type="nextLink" target="diff_V2.7.html">§ V2.7</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.5xyz.html">§ V2.5</ref>
-                     <ref target="08_VMS_1891_TEI_AW_25-04-21-TEI-P5.xml#d1e499a1048964">VMS 8 (1891)</ref>
+                     <ref target="08_VMS_1891_TEI_AW_26-01-21-TEI-P5.xml#d1e499a1048964">VMS 8 (1891)</ref>
                      <ref type="nextLink" target="diff_V2.7.html">§ V2.7</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.5xyz.html">§ V2.5</ref>
-                     <ref target="09_VMS_1896_TEI_AW_25-04-21-TEI-P5.xml#d1e497a1048964">VMS 9 (1896)</ref>
+                     <ref target="09_VMS_1896_TEI_AW_26-01-21-TEI-P5.xml#d1e497a1048964">VMS 9 (1896)</ref>
                      <ref type="nextLink" target="diff_V2.7.html">§ V2.7</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_V2.5xyz.html">§ V2.5</ref>
-                     <ref target="10_VMS_1902_TEI_AW_25-04-21-TEI-P5.xml#d1e468a1048964">VMS 10 (1902)</ref>
+                     <ref target="10_VMS_1902_TEI_AW_26-01-21-TEI-P5.xml#d1e468a1048964">VMS 10 (1902)</ref>
                      <ref type="nextLink" target="diff_V2.7.html">§ V2.7</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
                <cell xml:id="v1">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Nun, wo ich die 2. Auflage zu veranstalten habe, sind zu Wagners Schriften noch Lißt’s Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben.</cell>
-               <cell xml:id="v2">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die zweite Auflage zweite Auflage veranstaltete, waren eben Lißtʼs Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagnerʼs „Tristan,“ „Nibelungenring“ und seine Lehre von der „unendlichen Melodie,“ d. h. die zum Princip erhobene Formlosigkeit, die systemisirte Nichtmusik, das auf 5 Notenlinien verschriebene melodische Nervenfieber.</cell>
-               <cell xml:id="v3">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die zweite Auflage zweite Auflage veranstaltete, waren eben Lißtʼs Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagnerʼs „Tristan,“ „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Princip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Cultus in diesem Augenblick zu Baireuth ein eigener Tempel erbaut wird.</cell>
-               <cell xml:id="v4">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die zweite Auflage zweite Auflage veranstaltete, waren eben Lißtʼs Programmständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagnerʼs „Tristan“, „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Princip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Cultus in diesem Augenblick zu Baireuth ein eigener Tempel eröffnet wird.</cell>
-               <cell xml:id="v5">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die zweite Auflage zweite Auflage veranstaltete, waren eben Lißtʼs Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagnerʼs „Tristan,“ „Nibelungenring“ und seine Lehre von der „unendlichen Melodie,“ d. h. die zum Princip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Cultus ja in Baireuth ein eigener Tempel eröffnet worden ist.</cell>
-               <cell xml:id="v6">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besonderen Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die zweite Auflage zweite Auflage veranstaltete, waren eben Lißt ʼs Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagnerʼs „Tristan“, „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Princip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Cultus ja in Baireuth ein eigener Tempel eröffnet worden ist.</cell>
-               <cell xml:id="v7">Jenem negativen Hauptsatz steht korrespondierend der positive gegenüber: die Schönheit eines Tonstücks ist spezifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Ästhetik vollständig zu beleuchten. Wenn trotzdem das polemische, negierende Element in der Ausführung ein Übergewicht erlangt, so wird man dieses in Erwägung der besonderen Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntnis zur Reaktion reizen. Als ich die zweite Auflage zweite Auflage veranstaltete, waren eben Lißts Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagners „Tristan“, „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Prinzip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Kultus ja in Bayreuth ein eigener Tempel eröffnet worden ist.</cell>
-               <cell xml:id="v8">Jenem negativen Hauptsatz steht korrespondierend der positive gegenüber: die Schönheit eines Tonstücks ist spezifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Ästhetik vollständig zu beleuchten. Wenn trotzdem das polemische, negierende Element in der Ausführung ein Übergewicht erlangt, so wird man dieses in Erwägung der besonderen Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntnis zur Reaktion reizen. Als ich die zweite Auflage zweite Auflage veranstaltete, waren eben Lißts Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagners „Tristian“, „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Prinzip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Kultus ja in Bayreuth ein eigener Tempel eröffnet worden ist.</cell>
-               <cell xml:id="v9">Jenem negativen Hauptsatz steht korrespondierend der positive gegenüber: die Schönheit eines Tonstücks ist spezifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Ästhetik vollständig zu beleuchten. Wenn trotzdem das polemische, negierende Element in der Ausführung ein Übergewicht erlangt, so wird man dieses in Erwägung der besonderen Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntnis zur Reaktion reizen. Als ich die zweite Auflage zweite Auflage veranstaltete, waren eben Lißts Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagners „Tristian“, „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Prinzip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Kultus ja in Bayreuth ein eigener Tempel eröffnet worden ist.</cell>
+               <cell xml:id="v2">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die zweite Auflage veranstaltete, waren eben Lißtʼs Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagnerʼs „Tristan,“ „Nibelungenring“ und seine Lehre von der „unendlichen Melodie,“ d. h. die zum Princip erhobene Formlosigkeit, die systemisirte Nichtmusik, das auf 5 Notenlinien verschriebene melodische Nervenfieber.</cell>
+               <cell xml:id="v3">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die zweite Auflage veranstaltete, waren eben Lißtʼs Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagnerʼs „Tristan,“ „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Princip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Cultus in diesem Augenblick zu Baireuth ein eigener Tempel erbaut wird.</cell>
+               <cell xml:id="v4">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die zweite Auflage veranstaltete, waren eben Lißtʼs Programmständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagnerʼs „Tristan“, „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Princip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Cultus in diesem Augenblick zu Baireuth ein eigener Tempel eröffnet wird.</cell>
+               <cell xml:id="v5">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besondern Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die zweite Auflage veranstaltete, waren eben Lißtʼs Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagnerʼs „Tristan,“ „Nibelungenring“ und seine Lehre von der „unendlichen Melodie,“ d. h. die zum Princip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Cultus ja in Baireuth ein eigener Tempel eröffnet worden ist.</cell>
+               <cell xml:id="v6">Jenem negativen Hauptsatz steht correspondirend der positive gegenüber: die Schönheit eines Tonstücks ist specifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Aesthetik vollständig zu beleuchten. Wenn trotzdem das polemische, negirende Element in der Ausführung ein Uebergewicht erlangt, so wird man dieses in Erwägung der besonderen Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntniß zur Reaction reizen. Als ich die zweite Auflage veranstaltete, waren eben Lißt ʼs Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagnerʼs „Tristan“, „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Princip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Cultus ja in Baireuth ein eigener Tempel eröffnet worden ist.</cell>
+               <cell xml:id="v7">Jenem negativen Hauptsatz steht korrespondierend der positive gegenüber: die Schönheit eines Tonstücks ist spezifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Ästhetik vollständig zu beleuchten. Wenn trotzdem das polemische, negierende Element in der Ausführung ein Übergewicht erlangt, so wird man dieses in Erwägung der besonderen Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntnis zur Reaktion reizen. Als ich die zweite Auflage veranstaltete, waren eben Lißts Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagners „Tristan“, „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Prinzip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Kultus ja in Bayreuth ein eigener Tempel eröffnet worden ist.</cell>
+               <cell xml:id="v8">Jenem negativen Hauptsatz steht korrespondierend der positive gegenüber: die Schönheit eines Tonstücks ist spezifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Ästhetik vollständig zu beleuchten. Wenn trotzdem das polemische, negierende Element in der Ausführung ein Übergewicht erlangt, so wird man dieses in Erwägung der besonderen Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntnis zur Reaktion reizen. Als ich die zweite Auflage veranstaltete, waren eben Lißts Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbstständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagners „Tristian“, „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Prinzip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Kultus ja in Bayreuth ein eigener Tempel eröffnet worden ist.</cell>
+               <cell xml:id="v9">Jenem negativen Hauptsatz steht korrespondierend der positive gegenüber: die Schönheit eines Tonstücks ist spezifisch musikalisch, d. h. den Tonverbindungen ohne Bezug auf einen fremden, außermusikalischen Gedankenkreis innewohnend. Es lag in der redlichen Absicht des Verfassers, das „Musikalisch-Schöne“ als Lebensfrage unserer Kunst und oberste Norm ihrer Ästhetik vollständig zu beleuchten. Wenn trotzdem das polemische, negierende Element in der Ausführung ein Übergewicht erlangt, so wird man dieses in Erwägung der besonderen Zeitumstände hoffentlich entschuldigen. Als ich diese Abhandlung schrieb, waren die Wortführer der Zukunftsmusik eben am lautesten bei Stimme und mußten wohl Leute von meinem Glaubensbekenntnis zur Reaktion reizen. Als ich die zweite Auflage veranstaltete, waren eben Lißts Programm-Symphonien hinzugekommen, welche vollständiger, als es bisher gelungen ist, die selbständige Bedeutung der Musik abdanken, und diese dem Hörer nur mehr als gestaltentreibendes Mittel eingeben. Seither besitzen wir nun auch Richard Wagners „Tristian“, „Nibelungenring“ und seine Lehre von der „unendlichen Melodie“, d. h. die zum Prinzip erhobene Formlosigkeit, den gesungenen und gegeigten Opiumrausch, für dessen Kultus ja in Bayreuth ein eigener Tempel eröffnet worden ist.</cell>
             </row>
          </table>
       </body>

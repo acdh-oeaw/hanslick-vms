@@ -29,7 +29,8 @@
                   <item>1.1</item>
                   <item>1.2</item>
                   <item>1.3</item>
-                  <item>1.4 &amp; 1.5</item>
+                  <item>1.4</item>
+                  <item>1.5</item>
                   <item>1.6</item>
                   <item>1.8</item>
                   <item>1.9</item>
@@ -130,8 +131,7 @@
                   <item>3.28</item>
                   <item>3.29</item>
                   <item>3.30</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
+                  <item>3.31</item>
                   <item>3.32</item>
                   <item>3.33</item>
                   <item>3.34</item>
@@ -271,10 +271,17 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
-                  <item>V2.1 &amp; V2.2</item>
-                  <item>1.4</item>
-                  <item>1.5</item>
-                  <item>1.7</item>
+                  <item>V1.1</item>
+                  <item>V1.2</item>
+                  <item>V1.3</item>
+                  <item>V1.4</item>
+                  <item>V1.5</item>
+                  <item>1.1xyz</item>
+                  <item>1.2xyz</item>
+                  <item>1.3xyz</item>
+                  <item>1.4xyz</item>
+                  <item>1.5xyz</item>
+                  <item>1.6xyz &amp; 1.7xyz</item>
                   <item>1.23</item>
                   <item>1.24</item>
                   <item>1.25</item>
@@ -283,21 +290,16 @@
                   <item>1.28</item>
                   <item>2.21</item>
                   <item>2.22</item>
-                  <item>3.31</item>
-                  <item>4.1</item>
-                  <item>4.2</item>
-                  <item>V2.1</item>
-                  <item>V2.2</item>
-                  <item>V2.5</item>
-                  <item>V1.1</item>
-                  <item>V1.2</item>
-                  <item>V1.3</item>
-                  <item>V1.4</item>
-                  <item>V1.5</item>
+                  <item>2.26xyz</item>
+                  <item>2.27xyz</item>
+                  <item>2.28xyz</item>
+                  <item>3.21 &amp; 3.22</item>
                   <item>3.40</item>
                   <item>3.41</item>
                   <item>3.42</item>
                   <item>3.43</item>
+                  <item>4.1</item>
+                  <item>4.2 &amp; 4.3</item>
                   <item>4.41</item>
                   <item>4.42</item>
                   <item>4.43</item>
@@ -307,17 +309,15 @@
                   <item>6.1</item>
                   <item>6.2</item>
                   <item>7.25</item>
-                  <item>1.1xyz</item>
-                  <item>1.2xyz</item>
-                  <item>1.3xyz</item>
-                  <item>1.4xyz</item>
-                  <item>1.5xyz</item>
-                  <item>1.6xyz &amp; 1.7xyz</item>
-                  <item>2.26xyz</item>
-                  <item>2.27xyz</item>
-                  <item>2.28xyz</item>
-                  <item>3.21 &amp; 3.22</item>
-                  <item>4.2 &amp; 4.3</item>
+                  <item>V2.1</item>
+                  <item>V2.2</item>
+                  <item>V2.5</item>
+                  <item>1.7</item>
+                  <item>4.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>V2.1 &amp; V2.2</item>
                </list>
             </item>
          </list>
@@ -325,27 +325,27 @@
             <row role="label">
                <cell>
                   <seg type="sourceNav">
-                     <ref target="03_VMS_1865_TEI_AW_25-04-21-TEI-P5.xml#d1e355a1048964">VMS 3 (1865)</ref>
+                     <ref target="03_VMS_1865_TEI_AW_26-01-21-TEI-P5.xml#d1e355a1048964">VMS 3 (1865)</ref>
                      <ref type="nextLink" target="diff_V2.3.html">§ V2.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="04_VMS_1874_TEI_AW_25-04-21-TEI-P5.xml#d1e355a1048964">VMS 4 (1874)</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e355a1048964">VMS 4 (1874)</ref>
                      <ref type="nextLink" target="diff_V2.3.html">§ V2.3</ref>
                   </seg>
                </cell>
                <cell>
                   <seg type="sourceNav">
-                     <ref target="05_VMS_1876_TEI_AW_25-04-21-TEI-P5.xml#d1e357a1048964">VMS 5 (1876)</ref>
+                     <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e357a1048964">VMS 5 (1876)</ref>
                      <ref type="nextLink" target="diff_V2.3.html">§ V2.3</ref>
                   </seg>
                </cell>
             </row>
             <row role="data">
-               <cell xml:id="v1">Die vorliegende dritte Auflage steht zur zweiten (1858) zweiten (1858) ungefähr in demselben Verhältniß, welches zwischen dieser und der ersten (1854) ersten (1854) obwaltete. Einige weitere Ausführungen und neue Bemerkungen waren die einzige Mitgift, womit ich meine Monographie zu ihrem dritten Pilgergang neu ausstatten konnte, sollte deren ursprüngliche Physiognomie nicht gänzlich verwischt werden. Aus dem Vorwort zur zweiten Auflage zweiten Auflage muß ich die Versicherung wiederholen, daß ich der Mängel dieses Buches mir sehr lebhaft bewußt bin; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin mit jedem Jahre schwerer umformen. Uebrigens hat das weit über mein Erwarten günstige Schicksal der beiden ersten Auflagen und der mich hocherfreuende Antheil, mit welchem Männer wie Vischer , Strauß , Lotze , Lazarus u. A., in neuester Zeit vor Allem Helmholtz davon Act nahmen, mich überzeugt, daß meine Ideen auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind.</cell>
-               <cell xml:id="v2">Die vorliegende vierte Auflage unterscheidet sich von der dritten (1865) dritten (1865) durch keinerlei wesentliche Veränderung, sondern lediglich durch einige erweiternde Beisätze und stylistische Verbesserungen. Meine Ueberzeugungen sind dieselben geblieben, desgleichen die Positionen der (nur noch schroffer sich gegenüberstehenden) Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung der Bemerkungen gestatten, mit welchen ich das Erscheinen der dritten Auflage dritten Auflage begleitet habe. Zunächst die Versicherung, daß ich der Mängel dieses Buches mir sehr lebhaft bewußt bin; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin mit jedem Jahre schwerer umformen. Uebrigens hat das weit über mein Erwarten günstige Schicksal der früheren drei Auflagen und der mich hocherfreuende Antheil, mit welchem Männer wie Vischer , Strauß , Lotze , Lazarus u. A., in neuester Zeit vor Allem Helmholtz davon Act nahmen, mich überzeugt, daß meine Ideen auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind.</cell>
-               <cell xml:id="v3">Die vorliegende fünfte Auflage unterscheidet sich von der dritten (1865) dritten (1865) und der vierten (1874) vierten (1874) durch keinerlei wesentliche Veränderung, sondern lediglich durch einige erweiternde Beisätze und stylistische Verbesserungen. Meine Ueberzeugungen sind dieselben geblieben, desgleichen die Positionen der (nur noch schroffer sich gegenüberstehenden) Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung der Bemerkungen gestatten, mit welchen ich das Erscheinen der dritten Auflage dritten Auflage begleitet habe. Zunächst die Versicherung, daß ich der Mängel dieses Buches mir sehr lebhaft bewußt bin; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin mit jedem Jahre schwerer umformen. Uebrigens hat das weit über mein Erwarten günstige Schicksal der früheren Auflagen und der mich hocherfreuende Antheil, mit welchem Männer wie Vischer , Strauß , Lotze , Lazarus u. A., in neuester Zeit vor Allem Helmholtz davon Act nahmen, mich überzeugt, daß meine Ideen auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind.</cell>
+               <cell xml:id="v1">Die vorliegende dritte Auflage steht zur zweiten (1858) ungefähr in demselben Verhältniß, welches zwischen dieser und der ersten (1854) obwaltete. Einige weitere Ausführungen und neue Bemerkungen waren die einzige Mitgift, womit ich meine Monographie zu ihrem dritten Pilgergang neu ausstatten konnte, sollte deren ursprüngliche Physiognomie nicht gänzlich verwischt werden. Aus dem Vorwort zur zweiten Auflage muß ich die Versicherung wiederholen, daß ich der Mängel dieses Buches mir sehr lebhaft bewußt bin; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin mit jedem Jahre schwerer umformen. Uebrigens hat das weit über mein Erwarten günstige Schicksal der beiden ersten Auflagen und der mich hocherfreuende Antheil, mit welchem Männer wie Vischer , Strauß , Lotze , Lazarus u. A., in neuester Zeit vor Allem Helmholtz davon Act nahmen, mich überzeugt, daß meine Ideen auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind.</cell>
+               <cell xml:id="v2">Die vorliegende vierte Auflage unterscheidet sich von der dritten (1865) durch keinerlei wesentliche Veränderung, sondern lediglich durch einige erweiternde Beisätze und stylistische Verbesserungen. Meine Ueberzeugungen sind dieselben geblieben, desgleichen die Positionen der (nur noch schroffer sich gegenüberstehenden) Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung der Bemerkungen gestatten, mit welchen ich das Erscheinen der dritten Auflage begleitet habe. Zunächst die Versicherung, daß ich der Mängel dieses Buches mir sehr lebhaft bewußt bin; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin mit jedem Jahre schwerer umformen. Uebrigens hat das weit über mein Erwarten günstige Schicksal der früheren drei Auflagen und der mich hocherfreuende Antheil, mit welchem Männer wie Vischer , Strauß , Lotze , Lazarus u. A., in neuester Zeit vor Allem Helmholtz davon Act nahmen, mich überzeugt, daß meine Ideen auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind.</cell>
+               <cell xml:id="v3">Die vorliegende fünfte Auflage unterscheidet sich von der dritten (1865) und der vierten (1874) durch keinerlei wesentliche Veränderung, sondern lediglich durch einige erweiternde Beisätze und stylistische Verbesserungen. Meine Ueberzeugungen sind dieselben geblieben, desgleichen die Positionen der (nur noch schroffer sich gegenüberstehenden) Musikparteien der Gegenwart. Der Leser wird mir daher wohl auch die Wiederholung der Bemerkungen gestatten, mit welchen ich das Erscheinen der dritten Auflage begleitet habe. Zunächst die Versicherung, daß ich der Mängel dieses Buches mir sehr lebhaft bewußt bin; allein dergleichen gedankenmäßige Entwicklungen, welche organisch aus der Ueberzeugung ihres Verfassers herauswuchsen, lassen sich späterhin mit jedem Jahre schwerer umformen. Uebrigens hat das weit über mein Erwarten günstige Schicksal der früheren Auflagen und der mich hocherfreuende Antheil, mit welchem Männer wie Vischer , Strauß , Lotze , Lazarus u. A., in neuester Zeit vor Allem Helmholtz davon Act nahmen, mich überzeugt, daß meine Ideen auch in der etwas scharfen und rhapsodischen Weise ihres ursprünglichen Auftretens auf gutes Erdreich gefallen sind.</cell>
             </row>
          </table>
       </body>
