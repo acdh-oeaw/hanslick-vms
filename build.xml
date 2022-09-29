@@ -56,5 +56,6 @@
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
         <classpath location="${basedir}/saxon/saxon9he.jar"/>
     </xslt>
+    <rename src="./public/01_VMS_1854_TEI_AW_26-01-21-TEI-P5.html" dest="./public/index.html"/>
 
 </project>
