@@ -21,13 +21,6 @@ jobs:
     - name: Build
       run: |
         ant
-    - name: pushing files to repository
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: updating index and comp xml
-        branch: master
-        skip_dirty_check: false    
-        skip_fetch: true
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
