@@ -26,7 +26,7 @@ jobs:
       with:
         commit_message: updating index and comp xml
         branch: master
-        skip_dirty_check: true    
+        skip_dirty_check: false    
         skip_fetch: true
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
