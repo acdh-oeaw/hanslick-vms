@@ -29,7 +29,8 @@
                   <item>1.1</item>
                   <item>1.2</item>
                   <item>1.3</item>
-                  <item>1.4 &amp; 1.5</item>
+                  <item>1.4</item>
+                  <item>1.5</item>
                   <item>1.6</item>
                   <item>1.8</item>
                   <item>1.9</item>
@@ -130,8 +131,7 @@
                   <item>3.28</item>
                   <item>3.29</item>
                   <item>3.30</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
+                  <item>3.31</item>
                   <item>3.32</item>
                   <item>3.33</item>
                   <item>3.34</item>
@@ -271,33 +271,6 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
-                  <item>1.4</item>
-                  <item>1.5</item>
-                  <item>3.31</item>
-                  <item>V2.1 &amp; V2.2</item>
-                  <item>1.7</item>
-                  <item>1.23</item>
-                  <item>1.24</item>
-                  <item>1.25</item>
-                  <item>1.26</item>
-                  <item>1.27</item>
-                  <item>1.28</item>
-                  <item>2.21</item>
-                  <item>2.22</item>
-                  <item>4.1</item>
-                  <item>4.2</item>
-                  <item>3.40</item>
-                  <item>3.41</item>
-                  <item>3.42</item>
-                  <item>3.43</item>
-                  <item>4.41</item>
-                  <item>4.42</item>
-                  <item>4.43</item>
-                  <item>5.1</item>
-                  <item>5.7</item>
-                  <item>5.8</item>
-                  <item>6.1</item>
-                  <item>6.2</item>
                   <item>V1.1</item>
                   <item>V1.2</item>
                   <item>V1.3</item>
@@ -309,15 +282,42 @@
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
                   <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.23</item>
+                  <item>1.24</item>
+                  <item>1.25</item>
+                  <item>1.26</item>
+                  <item>1.27</item>
+                  <item>1.28</item>
+                  <item>2.21</item>
+                  <item>2.22</item>
                   <item>2.26xyz</item>
                   <item>2.27xyz</item>
                   <item>2.28xyz</item>
                   <item>3.21 &amp; 3.22</item>
+                  <item>3.40</item>
+                  <item>3.41</item>
+                  <item>3.42</item>
+                  <item>3.43</item>
+                  <item>4.1</item>
                   <item>4.2 &amp; 4.3</item>
+                  <item>4.41</item>
+                  <item>4.42</item>
+                  <item>4.43</item>
+                  <item>5.1</item>
+                  <item>5.7</item>
+                  <item>5.8</item>
+                  <item>6.1</item>
+                  <item>6.2</item>
                   <item>7.25</item>
                   <item>V2.1</item>
                   <item>V2.2</item>
                   <item>V2.5</item>
+                  <item>1.7</item>
+                  <item>4.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>V2.1 &amp; V2.2</item>
                </list>
             </item>
          </list>
@@ -350,19 +350,19 @@
                <cell>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.11.html">§ 3.11</ref>
-                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e2872a1048964">VMS 6 (1881)</ref>
-                     <ref type="nextLink" target="diff_3.13.html">§ 3.13</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_3.11.html">§ 3.11</ref>
                      <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e2395a1048964">VMS 5 (1876)</ref>
                      <ref type="nextLink" target="diff_3.13.html">§ 3.13</ref>
                   </seg>
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_3.11.html">§ 3.11</ref>
                      <ref target="07_VMS_1885_TEI_AW_26-01-21-TEI-P5.xml#d1e2832a1048964">VMS 7 (1885)</ref>
+                     <ref type="nextLink" target="diff_3.13.html">§ 3.13</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_3.11.html">§ 3.11</ref>
+                     <ref target="06_VMS_1881_TEI_AW_26-01-21-TEI-P5.xml#d1e2872a1048964">VMS 6 (1881)</ref>
                      <ref type="nextLink" target="diff_3.13.html">§ 3.13</ref>
                   </seg>
                </cell>
@@ -389,8 +389,8 @@
             <row role="data">
                <cell xml:id="v1">Es ist von außerordentlicher Schwierigkeit, dies selbstständige Schöne in der Tonkunst, dies specifisch Musikalische zu schildern. Da die Musik kein Vorbild in der Natur besitzt und keinen begrifflichen Inhalt ausspricht, so läßt sich von ihr nur mit trocknen technischen Bestimmungen, oder mit poetischen Fictionen erzählen. Ihr Reich ist in der That „nicht von dieser Welt.“ Allʼ die phantasiereichen Schilderungen, Charakteristiken, Umschreibungen eines Tonwerks sind bildlich oder irrig. Was bei jeder andern Kunst noch Beschreibung, ist bei der Tonkunst schon Metapher. Die Musik will nun einmal als Musik aufgefaßt sein, und kann nur aus sich selbst verstanden, in sich selbst genossen werden.</cell>
                <cell xml:id="v2">Es ist von außerordentlicher Schwierigkeit, dies selbstständige Schöne in der Tonkunst, dies specifisch Musikalische zu schildern. Da die Musik kein Vorbild in der Natur besitzt und keinen begrifflichen Inhalt ausspricht, so läßt sich von ihr nur mit trocknen technischen Bestimmungen, oder mit patischen Fictionen erzählen. Ihr Reich ist in der That „nicht von dieser Welt.“ All die phantasiereichen Schilderungen, Charakteristiken, Umschreibungen eines Tonwerks sind bildlich oder irrig. Was bei jeder andern Kunst noch Beschreibung, ist bei der Tonkunst schon Metapher. Die Musik will nun einmal als Musik aufgefaßt sein, und kann nur aus sich selbst verstanden, in sich selbst genossen werden.</cell>
-               <cell xml:id="v3">Es ist von außerordentlicher Schwierigkeit, dies selbstständige Schöne in der Tonkunst, dies specifisch Musikalische zu schildern. Da die Musik kein Vorbild in der Natur besitzt und keinen begrifflichen Inhalt ausspricht, so läßt sich von ihr nur mit trocknen technischen Bestimmungen, oder mit poetischen Fictionen erzählen. Ihr Reich ist in der That „nicht von dieser Welt.“ All die phantasiereichen Schilderungen, Charakteristiken, Umschreibungen eines Tonwerks sind bildlich oder irrig. Was bei jeder andern Kunst noch Beschreibung, ist bei der Tonkunst schon Metapher. Die Musik will nun einmal als Musik aufgefaßt sein, und kann nur aus sich selbst verstanden, in sich selbst genossen werden.</cell>
-               <cell xml:id="v4">Es ist von außerordentlicher Schwierigkeit, dies selbstständige Schöne in der Tonkunst, dies specifisch Musikalische zu schildern. Da die Musik kein Vorbild in der Natur besitzt und keinen begrifflichen Inhalt ausspricht, so läßt sich von ihr nur mit trocknen technischen Bestimmungen, oder mit poetischen Fictionen erzählen. Ihr Reich ist in der That „nicht von dieser Welt“. All die phantasiereichen Schilderungen, Charakteristiken, Umschreibungen eines Tonwerks sind bildlich oder irrig. Was bei jeder andern Kunst noch Beschreibung, ist bei der Tonkunst schon Metapher. Die Musik will nun einmal als Musik aufgefaßt sein, und kann nur aus sich selbst verstanden, in sich selbst genossen werden.</cell>
+               <cell xml:id="v3">Es ist von außerordentlicher Schwierigkeit, dies selbstständige Schöne in der Tonkunst, dies specifisch Musikalische zu schildern. Da die Musik kein Vorbild in der Natur besitzt und keinen begrifflichen Inhalt ausspricht, so läßt sich von ihr nur mit trocknen technischen Bestimmungen, oder mit poetischen Fictionen erzählen. Ihr Reich ist in der That „nicht von dieser Welt“. All die phantasiereichen Schilderungen, Charakteristiken, Umschreibungen eines Tonwerks sind bildlich oder irrig. Was bei jeder andern Kunst noch Beschreibung, ist bei der Tonkunst schon Metapher. Die Musik will nun einmal als Musik aufgefaßt sein, und kann nur aus sich selbst verstanden, in sich selbst genossen werden.</cell>
+               <cell xml:id="v4">Es ist von außerordentlicher Schwierigkeit, dies selbstständige Schöne in der Tonkunst, dies specifisch Musikalische zu schildern. Da die Musik kein Vorbild in der Natur besitzt und keinen begrifflichen Inhalt ausspricht, so läßt sich von ihr nur mit trocknen technischen Bestimmungen, oder mit poetischen Fictionen erzählen. Ihr Reich ist in der That „nicht von dieser Welt.“ All die phantasiereichen Schilderungen, Charakteristiken, Umschreibungen eines Tonwerks sind bildlich oder irrig. Was bei jeder andern Kunst noch Beschreibung, ist bei der Tonkunst schon Metapher. Die Musik will nun einmal als Musik aufgefaßt sein, und kann nur aus sich selbst verstanden, in sich selbst genossen werden.</cell>
                <cell xml:id="v5">Es ist von außerordentlicher Schwierigkeit, dies selbständige Schöne in der Tonkunst, dies spezifisch Musikalische zu schildern. Da die Musik kein Vorbild in der Natur besitzt und keinen begrifflichen Inhalt ausspricht, so läßt sich von ihr nur mit trocknen technischen Bestimmungen, oder mit poetischen Fiktionen erzählen. Ihr Reich ist in der That „nicht von dieser Welt“. All die phantasiereichen, Schilderungen, Charakteristiken, Umschreibungen eines Tonwerks sind bildlich oder irrig. Was bei jeder andern Kunst noch Beschreibung, ist bei der Tonkunst schon Metapher. Die Musik will nun einmal als Musik aufgefaßt sein, und kann nur aus sich selbst verstanden, in sich selbst genossen werden.</cell>
                <cell xml:id="v6">Es ist von außerordentlicher Schwierigkeit, dies selbständige Schöne in der Tonkunst, dies spezifisch Musikalische zu schildern. Da die Musik kein Vorbild in der Natur besitzt und keinen begrifflichen Inhalt ausspricht, so läßt sich von ihr nur mit trocknen technischen Bestimmungen, oder mit poetischen Fiktionen erzählen. Ihr Reich ist in der That „nicht von dieser Welt“. All die phantasiereichen Schilderungen, Charakteristiken, Umschreibungen eines Tonwerks sind bildlich oder irrig. Was bei jeder andern Kunst noch Beschreibung, ist bei der Tonkunst schon Metapher. Die Musik will nun einmal als Musik aufgefaßt sein, und kann nur aus sich selbst verstanden, in sich selbst genossen werden.</cell>
             </row>

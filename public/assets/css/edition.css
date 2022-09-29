@@ -17,7 +17,7 @@
 }
 
 .prevLink:before{
-    content: " ‹ "
+    content: " ‹ ";
 }
 
 .prevLink, .nextLink {
@@ -35,7 +35,7 @@
 }
 
 .nextLink:after{
-    content: " › "
+    content: " › ";
 }
 
 #selPar{

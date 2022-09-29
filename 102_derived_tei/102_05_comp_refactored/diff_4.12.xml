@@ -29,7 +29,8 @@
                   <item>1.1</item>
                   <item>1.2</item>
                   <item>1.3</item>
-                  <item>1.4 &amp; 1.5</item>
+                  <item>1.4</item>
+                  <item>1.5</item>
                   <item>1.6</item>
                   <item>1.8</item>
                   <item>1.9</item>
@@ -130,8 +131,7 @@
                   <item>3.28</item>
                   <item>3.29</item>
                   <item>3.30</item>
-                  <item>3.31a</item>
-                  <item>3.31b</item>
+                  <item>3.31</item>
                   <item>3.32</item>
                   <item>3.33</item>
                   <item>3.34</item>
@@ -271,33 +271,6 @@
                   <item>7.22</item>
                   <item>7.23</item>
                   <item>7.24</item>
-                  <item>1.4</item>
-                  <item>1.5</item>
-                  <item>3.31</item>
-                  <item>V2.1 &amp; V2.2</item>
-                  <item>1.7</item>
-                  <item>1.23</item>
-                  <item>1.24</item>
-                  <item>1.25</item>
-                  <item>1.26</item>
-                  <item>1.27</item>
-                  <item>1.28</item>
-                  <item>2.21</item>
-                  <item>2.22</item>
-                  <item>4.1</item>
-                  <item>4.2</item>
-                  <item>3.40</item>
-                  <item>3.41</item>
-                  <item>3.42</item>
-                  <item>3.43</item>
-                  <item>4.41</item>
-                  <item>4.42</item>
-                  <item>4.43</item>
-                  <item>5.1</item>
-                  <item>5.7</item>
-                  <item>5.8</item>
-                  <item>6.1</item>
-                  <item>6.2</item>
                   <item>V1.1</item>
                   <item>V1.2</item>
                   <item>V1.3</item>
@@ -309,15 +282,42 @@
                   <item>1.4xyz</item>
                   <item>1.5xyz</item>
                   <item>1.6xyz &amp; 1.7xyz</item>
+                  <item>1.23</item>
+                  <item>1.24</item>
+                  <item>1.25</item>
+                  <item>1.26</item>
+                  <item>1.27</item>
+                  <item>1.28</item>
+                  <item>2.21</item>
+                  <item>2.22</item>
                   <item>2.26xyz</item>
                   <item>2.27xyz</item>
                   <item>2.28xyz</item>
                   <item>3.21 &amp; 3.22</item>
+                  <item>3.40</item>
+                  <item>3.41</item>
+                  <item>3.42</item>
+                  <item>3.43</item>
+                  <item>4.1</item>
                   <item>4.2 &amp; 4.3</item>
+                  <item>4.41</item>
+                  <item>4.42</item>
+                  <item>4.43</item>
+                  <item>5.1</item>
+                  <item>5.7</item>
+                  <item>5.8</item>
+                  <item>6.1</item>
+                  <item>6.2</item>
                   <item>7.25</item>
                   <item>V2.1</item>
                   <item>V2.2</item>
                   <item>V2.5</item>
+                  <item>1.7</item>
+                  <item>4.2</item>
+                  <item>1.4 &amp; 1.5</item>
+                  <item>3.31a</item>
+                  <item>3.31b</item>
+                  <item>V2.1 &amp; V2.2</item>
                </list>
             </item>
          </list>
@@ -327,13 +327,6 @@
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.11.html">§ 4.11</ref>
                      <ref target="01_VMS_1854_TEI_AW_26-01-21-TEI-P5.xml#d1e3215a1048964">VMS 1 (1854)</ref>
-                     <ref type="nextLink" target="diff_4.13.html">§ 4.13</ref>
-                  </seg>
-               </cell>
-               <cell>
-                  <seg type="sourceNav">
-                     <ref type="prevLink" target="diff_4.11.html">§ 4.11</ref>
-                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3700a1048964">VMS 4 (1874)</ref>
                      <ref type="nextLink" target="diff_4.13.html">§ 4.13</ref>
                   </seg>
                </cell>
@@ -351,6 +344,13 @@
                   <seg type="sourceNav">
                      <ref type="prevLink" target="diff_4.11.html">§ 4.11</ref>
                      <ref target="05_VMS_1876_TEI_AW_26-01-21-TEI-P5.xml#d1e3616a1048964">VMS 5 (1876)</ref>
+                     <ref type="nextLink" target="diff_4.13.html">§ 4.13</ref>
+                  </seg>
+               </cell>
+               <cell>
+                  <seg type="sourceNav">
+                     <ref type="prevLink" target="diff_4.11.html">§ 4.11</ref>
+                     <ref target="04_VMS_1874_TEI_AW_26-01-21-TEI-P5.xml#d1e3700a1048964">VMS 4 (1874)</ref>
                      <ref type="nextLink" target="diff_4.13.html">§ 4.13</ref>
                   </seg>
                </cell>
@@ -388,8 +388,8 @@
             </row>
             <row role="data">
                <cell xml:id="v1">Die architektonische Seite des Musikalisch-Schönen tritt bei der Stylfrage recht deutlich in den Vordergrund. Eine höhere Gesetzlichkeit, als die der bloßen Proportion, wird der Styl eines Tonstücks durch einen einzigen Takt verletzt, der, an sich untadelhaft, nicht zum Ausdruck des Ganzen stimmt. Genau so wie eine unpassende Arabeske im Bauwerk, nennen wir styllos eine Cadenz oder Modulation, welche als Inconsequenz aus der einheitlichen Durchführung des Grundgedankens abspringt. Einen äußerst richtigen Blick hat Nägeli bewährt, als er in einigen Instrumentalwerken von Mozart „Styllosigkeiten“ nachwies und dabei nicht vom Charakter des Componisten, sondern von objectiv musikalischen Bestimmungen ausging, freilich ohne den Begriff selbst zu erklären oder zu begründen.</cell>
-               <cell xml:id="v2">Die architektonische Seite des musikalisch-Schönen tritt bei der Stylfrage recht deutlich in den Vordergrund. Eine höhere Gesetzlichkeit, als die der bloßen Proportion, wird der Styl eines Tonstücks durch einen einzigen Tact verletzt, der, an sich untadelhaft, nicht zum Ausdruck des Ganzen stimmt. Genau so wie eine unpassende Arabeske im Bauwerk, nennen wir styllos eine Cadenz oder Modulation, welche als Inconsequenz aus der einheitlichen Durchführung des Grundgedankens abspringt. Einen äußerst richtigen Blick hat Nägeli bewährt, als er in einigen Instrumentalwerken von Mozart „Styllosigkeiten“ nachwies und dabei nicht vom Charakter des Componisten, sondern von objectiv musikalischen Bestimmungen ausging, freilich ohne den Begriff selbst zu erklären oder zu begründen.</cell>
-               <cell xml:id="v3">Die architektonische Seite des Musikalisch-Schönen tritt bei der Stylfrage recht deutlich in den Vordergrund. Eine höhere Gesetzlichkeit, als die der bloßen Proportion, wird der Styl eines Tonstücks durch einen einzigen Tact verletzt, der, an sich untadelhaft, nicht zum Ausdruck des Ganzen stimmt. Genau so wie eine unpassende Arabeske im Bauwerk, nennen wir styllos eine Cadenz oder Modulation, welche als Inconsequenz aus der einheitlichen Durchführung des Grundgedankens abspringt. Einen äußerst richtigen Blick hat Nägeli bewährt, als er in einigen Instrumentalwerken von Mozart „Styllosigkeiten“ nachwies und dabei nicht vom Charakter des Componisten, sondern von objectiv musikalischen Bestimmungen ausging, freilich ohne den Begriff selbst zu erklären oder zu begründen.</cell>
+               <cell xml:id="v2">Die architektonische Seite des Musikalisch-Schönen tritt bei der Stylfrage recht deutlich in den Vordergrund. Eine höhere Gesetzlichkeit, als die der bloßen Proportion, wird der Styl eines Tonstücks durch einen einzigen Tact verletzt, der, an sich untadelhaft, nicht zum Ausdruck des Ganzen stimmt. Genau so wie eine unpassende Arabeske im Bauwerk, nennen wir styllos eine Cadenz oder Modulation, welche als Inconsequenz aus der einheitlichen Durchführung des Grundgedankens abspringt. Einen äußerst richtigen Blick hat Nägeli bewährt, als er in einigen Instrumentalwerken von Mozart „Styllosigkeiten“ nachwies und dabei nicht vom Charakter des Componisten, sondern von objectiv musikalischen Bestimmungen ausging, freilich ohne den Begriff selbst zu erklären oder zu begründen.</cell>
+               <cell xml:id="v3">Die architektonische Seite des musikalisch-Schönen tritt bei der Stylfrage recht deutlich in den Vordergrund. Eine höhere Gesetzlichkeit, als die der bloßen Proportion, wird der Styl eines Tonstücks durch einen einzigen Tact verletzt, der, an sich untadelhaft, nicht zum Ausdruck des Ganzen stimmt. Genau so wie eine unpassende Arabeske im Bauwerk, nennen wir styllos eine Cadenz oder Modulation, welche als Inconsequenz aus der einheitlichen Durchführung des Grundgedankens abspringt. Einen äußerst richtigen Blick hat Nägeli bewährt, als er in einigen Instrumentalwerken von Mozart „Styllosigkeiten“ nachwies und dabei nicht vom Charakter des Componisten, sondern von objectiv musikalischen Bestimmungen ausging, freilich ohne den Begriff selbst zu erklären oder zu begründen.</cell>
                <cell xml:id="v4">Die architektonische Seite des Musikalisch-Schönen tritt bei der Stylfrage recht deutlich in den Vordergrund. Eine höhere Gesetzlichkeit, als die der bloßen Proportion, wird der Styl eines Tonstücks durch einen einzigen Tact verletzt, der an sich untadelhaft, nicht zum Ausdruck des Ganzen stimmt. Genau so wie eine unpaßende Arabeske im Bauwerk, nennen wir styllos eine Cadenz oder Modulation, welche als Inconsequenz aus der einheitlichen Durchführung des Grundgedankens abspringt. Natürlich ist diese Einheit im weiteren, höheren Sinne zu nehmen, wonach sie unter Umständen den Contrast, die Episode und manche Freiheiten in sich begreift.</cell>
                <cell xml:id="v5">Die architektonische Seite des Musikalisch-Schönen tritt bei der Stylfrage recht deutlich in den Vordergrund. Eine höhere Gesetzlichkeit, als die der bloßen Proportion, wird der Styl eines Tonstücks durch einen einzigen Tact verletzt, der, an sich untadelhaft, nicht zum Ausdruck des Ganzen stimmt. Genau so wie eine unpassende Arabeske im Bauwerk, nennen wir styllos eine Cadenz oder Modulation, welche als Inconsequenz aus der einheitlichen Durchführung des Grundgedankens abspringt. Natürlich ist diese Einheit im weiteren, höheren Sinne zu nehmen, wonach sie unter Umständen den Contrast, die Episode und manche Freiheiten in sich begreift.</cell>
                <cell xml:id="v6">Die architektonische Seite des Musikalisch-Schönen tritt bei der Stilfrage recht deutlich in den Vordergrund. Eine höhere Gesetzlichkeit, als die der bloßen Proportion, wird der Stil eines Tonstücks durch einen einzigen Takt verletzt, der, an sich untadelhaft, nicht zum Ausdruck des Ganzen stimmt. Genau so wie eine unpassende Arabeske im Bauwerk, nennen wir stillos eine Kadenz oder Modulation, welche als Inkonsequenz aus der einheitlichen Durchführung des Grundgedankens abspringt. Natürlich ist diese Einheit im weiteren, höheren Sinne zu nehmen, wonach sie unter Umständen den Kontrast, die Episode und manche Freiheiten in sich begreift.</cell>

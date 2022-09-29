@@ -132,7 +132,7 @@
                     </div>
                 </div>
                 
-                <xsl:if test="contains(base-uri(),'comp')">
+                <xsl:if test="contains(base-uri(),'diff_')">
                     <div class="row justify-content-center g-3 border p-3">
                        <div class="col-6">
                            <div class="row align-items-end">
@@ -176,7 +176,7 @@
                 
             </div>
             
-            <xsl:if test="contains(base-uri(),'tei_refactored')">
+            <xsl:if test="not(contains(base-uri(),'diff_'))">
                 <script type="text/javascript">
                     var id = window.location.hash.substr(1);
                     if (id !== "") {
@@ -185,7 +185,7 @@
                 </script>    
             </xsl:if>
             
-            <xsl:if test="contains(base-uri(),'comp')">
+            <xsl:if test="contains(base-uri(),'diff_')">
                 <script type="text/javascript" src="assets/js/diff.js"/>
                 <script type="text/javascript" src="assets/js/comp.js"/>
             </xsl:if>
